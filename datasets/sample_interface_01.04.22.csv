@@ -1,0 +1,1009 @@
+Sample_ID,Wound_ID,Subject_ID,Sample_Group,Site,Sampling_Method,Visit,Interval_Weeks,Collection_Date,Surface_Size_mm2,Depth_mm,Status_vs_Last_Time,Treatment,Antibiotics,Antibiotics_Receive_Time,Antibiotics_Name,Project,Run_ID,Experiment_ID,Seq_Method,Seq_Region,Read_Length_bp,Seq_Platform,Seq_Instrument,Layout,Barcode_and_Primer_in_SRA,Primer
+P1_5_SA,P1_W,P1,SA,adjacent,swab,5,2,2014,18,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760072,ERX1826392,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_4_SA,P1_W,P1,SA,adjacent,swab,4,2,2014,14,1,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760068,ERX1826388,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_3_SA,P1_W,P1,SA,adjacent,swab,3,2,2014,24,2,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760064,ERX1826384,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_2_SA,P1_W,P1,SA,adjacent,swab,2,2,2014,24,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760060,ERX1826380,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_1_SA,P1_W,P1,SA,adjacent,swab,1,2,2014,64,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760056,ERX1826376,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_5_SC,P1_W,P1,SC,contralateral,swab,5,2,2014,18,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760073,ERX1826393,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_4_SC,P1_W,P1,SC,contralateral,swab,4,2,2014,14,1,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760069,ERX1826389,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_3_SC,P1_W,P1,SC,contralateral,swab,3,2,2014,24,2,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760065,ERX1826385,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_2_SC,P1_W,P1,SC,contralateral,swab,2,2,2014,24,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760061,ERX1826381,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_1_SC,P1_W,P1,SC,contralateral,swab,1,2,2014,64,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760057,ERX1826377,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_0_SC,P1_W,P1,SC,contralateral,swab,0,2,2014,110,1,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760053,ERX1826373,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_5_WD,P1_W,P1,WD,wound,tissue,5,2,2014,18,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760074,ERX1826394,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_4_WD,P1_W,P1,WD,wound,tissue,4,2,2014,14,1,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760070,ERX1826390,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_3_WD,P1_W,P1,WD,wound,tissue,3,2,2014,24,2,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760066,ERX1826386,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_2_WD,P1_W,P1,WD,wound,tissue,2,2,2014,24,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760062,ERX1826382,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_1_WD,P1_W,P1,WD,wound,tissue,1,2,2014,64,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760058,ERX1826378,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_0_WD,P1_W,P1,WD,wound,tissue,0,2,2014,110,1,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760054,ERX1826374,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_5_WS,P1_W,P1,WS,wound,swab,5,2,2014,18,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760075,ERX1826395,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_4_WS,P1_W,P1,WS,wound,swab,4,2,2014,14,1,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760071,ERX1826391,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_3_WS,P1_W,P1,WS,wound,swab,3,2,2014,24,2,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760067,ERX1826387,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_2_WS,P1_W,P1,WS,wound,swab,2,2,2014,24,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760063,ERX1826383,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_1_WS,P1_W,P1,WS,wound,swab,1,2,2014,64,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760059,ERX1826379,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P1_0_WS,P1_W,P1,WS,wound,swab,0,2,2014,110,1,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760055,ERX1826375,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_4_SA,P10_W,P10,SA,adjacent,swab,4,2,2014,16,12,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759944,ERX1826264,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_3_SA,P10_W,P10,SA,adjacent,swab,3,2,2014,36,12,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759940,ERX1826260,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_2_SA,P10_W,P10,SA,adjacent,swab,2,2,2014,33,12,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759936,ERX1826256,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_1_SA,P10_W,P10,SA,adjacent,swab,1,2,2014,32,12,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759932,ERX1826252,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_0_SA,P10_W,P10,SA,adjacent,swab,0,2,2014,35,12,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759928,ERX1826248,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_4_SC,P10_W,P10,SC,contralateral,swab,4,2,2014,16,12,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759945,ERX1826265,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_3_SC,P10_W,P10,SC,contralateral,swab,3,2,2014,36,12,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759941,ERX1826261,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_2_SC,P10_W,P10,SC,contralateral,swab,2,2,2014,33,12,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759937,ERX1826257,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_1_SC,P10_W,P10,SC,contralateral,swab,1,2,2014,32,12,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759933,ERX1826253,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_0_SC,P10_W,P10,SC,contralateral,swab,0,2,2014,35,12,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759929,ERX1826249,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_4_WD,P10_W,P10,WD,wound,tissue,4,2,2014,16,12,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759946,ERX1826266,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_3_WD,P10_W,P10,WD,wound,tissue,3,2,2014,36,12,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759942,ERX1826262,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_2_WD,P10_W,P10,WD,wound,tissue,2,2,2014,33,12,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759938,ERX1826258,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_1_WD,P10_W,P10,WD,wound,tissue,1,2,2014,32,12,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759934,ERX1826254,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_0_WD,P10_W,P10,WD,wound,tissue,0,2,2014,35,12,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759930,ERX1826250,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_4_WS,P10_W,P10,WS,wound,swab,4,2,2014,16,12,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759947,ERX1826267,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_3_WS,P10_W,P10,WS,wound,swab,3,2,2014,36,12,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759943,ERX1826263,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_2_WS,P10_W,P10,WS,wound,swab,2,2,2014,33,12,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759939,ERX1826259,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_1_WS,P10_W,P10,WS,wound,swab,1,2,2014,32,12,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759935,ERX1826255,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P10_0_WS,P10_W,P10,WS,wound,swab,0,2,2014,35,12,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1759931,ERX1826251,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_5_SA,P2_W,P2,SA,adjacent,swab,5,2,2014,6,2,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760085,ERX1826405,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_4_SA,P2_W,P2,SA,adjacent,swab,4,2,2014,2,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760082,ERX1826402,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_3_SA,P2_W,P2,SA,adjacent,swab,3,2,2014,2,1,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760080,ERX1826400,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_0_SA,P2_W,P2,SA,adjacent,swab,0,2,2014,4,1,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760076,ERX1826396,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_5_SC,P2_W,P2,SC,contralateral,swab,5,2,2014,6,2,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760086,ERX1826406,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_4_SC,P2_W,P2,SC,contralateral,swab,4,2,2014,2,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760083,ERX1826403,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_3_SC,P2_W,P2,SC,contralateral,swab,3,2,2014,2,1,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760081,ERX1826401,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_0_SC,P2_W,P2,SC,contralateral,swab,0,2,2014,4,1,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760077,ERX1826397,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_0_WD,P2_W,P2,WD,wound,tissue,0,2,2014,4,1,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760078,ERX1826398,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_5_WS,P2_W,P2,WS,wound,swab,5,2,2014,6,2,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760087,ERX1826407,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_4_WS,P2_W,P2,WS,wound,swab,4,2,2014,2,1,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760084,ERX1826404,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P2_0_WS,P2_W,P2,WS,wound,swab,0,2,2014,4,1,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1760079,ERX1826399,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_5_SA,P5_W,P5,SA,adjacent,swab,5,2,2014,25,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760115,ERX1826435,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_4_SA,P5_W,P5,SA,adjacent,swab,4,2,2014,15,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760112,ERX1826432,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_3_SA,P5_W,P5,SA,adjacent,swab,3,2,2014,4,1,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760108,ERX1826428,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_2_SA,P5_W,P5,SA,adjacent,swab,2,2,2014,48,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760104,ERX1826424,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_1_SA,P5_W,P5,SA,adjacent,swab,1,2,2014,6,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760100,ERX1826420,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_0_SA,P5_W,P5,SA,adjacent,swab,0,2,2014,6,1,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760096,ERX1826416,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_5_SC,P5_W,P5,SC,contralateral,swab,5,2,2014,25,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760116,ERX1826436,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_4_SC,P5_W,P5,SC,contralateral,swab,4,2,2014,15,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760113,ERX1826433,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_3_SC,P5_W,P5,SC,contralateral,swab,3,2,2014,4,1,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760109,ERX1826429,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_2_SC,P5_W,P5,SC,contralateral,swab,2,2,2014,48,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760105,ERX1826425,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_1_SC,P5_W,P5,SC,contralateral,swab,1,2,2014,6,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760101,ERX1826421,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_0_SC,P5_W,P5,SC,contralateral,swab,0,2,2014,6,1,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760097,ERX1826417,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_5_WD,P5_W,P5,WD,wound,tissue,5,2,2014,25,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760117,ERX1826437,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_3_WD,P5_W,P5,WD,wound,tissue,3,2,2014,4,1,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760110,ERX1826430,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_2_WD,P5_W,P5,WD,wound,tissue,2,2,2014,48,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760106,ERX1826426,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_1_WD,P5_W,P5,WD,wound,tissue,1,2,2014,6,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760102,ERX1826422,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_0_WD,P5_W,P5,WD,wound,tissue,0,2,2014,6,1,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760098,ERX1826418,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_5_WS,P5_W,P5,WS,wound,swab,5,2,2014,25,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760118,ERX1826438,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_4_WS,P5_W,P5,WS,wound,swab,4,2,2014,15,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760114,ERX1826434,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_3_WS,P5_W,P5,WS,wound,swab,3,2,2014,4,1,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760111,ERX1826431,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_2_WS,P5_W,P5,WS,wound,swab,2,2,2014,48,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760107,ERX1826427,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_1_WS,P5_W,P5,WS,wound,swab,1,2,2014,6,1,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760103,ERX1826423,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P5_0_WS,P5_W,P5,WS,wound,swab,0,2,2014,6,1,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760099,ERX1826419,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_5_SA,P6_W,P6,SA,adjacent,swab,5,2,2014,0,0,NA,NA,No,NA,NA,Gardiner2017,ERR1760137,ERX1826457,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_4_SA,P6_W,P6,SA,adjacent,swab,4,2,2014,0,0,healing,NA,No,NA,NA,Gardiner2017,ERR1760133,ERX1826453,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_3_SA,P6_W,P6,SA,adjacent,swab,3,2,2014,3,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760130,ERX1826450,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_2_SA,P6_W,P6,SA,adjacent,swab,2,2,2014,4,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760126,ERX1826446,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_1_SA,P6_W,P6,SA,adjacent,swab,1,2,2014,5,2,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760122,ERX1826442,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_0_SA,P6_W,P6,SA,adjacent,swab,0,2,2014,4,3.5,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760119,ERX1826439,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_5_SC,P6_W,P6,SC,contralateral,swab,5,2,2014,0,0,NA,NA,No,NA,NA,Gardiner2017,ERR1760138,ERX1826458,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_4_SC,P6_W,P6,SC,contralateral,swab,4,2,2014,0,0,healing,NA,No,NA,NA,Gardiner2017,ERR1760134,ERX1826454,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_3_SC,P6_W,P6,SC,contralateral,swab,3,2,2014,3,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760131,ERX1826451,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_2_SC,P6_W,P6,SC,contralateral,swab,2,2,2014,4,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760127,ERX1826447,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_1_SC,P6_W,P6,SC,contralateral,swab,1,2,2014,5,2,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760123,ERX1826443,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_0_SC,P6_W,P6,SC,contralateral,swab,0,2,2014,4,3.5,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760120,ERX1826440,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_4_WD,P6_W,P6,WD,wound,tissue,4,2,2014,0,0,healing,NA,No,NA,NA,Gardiner2017,ERR1760135,ERX1826455,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_2_WD,P6_W,P6,WD,wound,tissue,2,2,2014,4,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760128,ERX1826448,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_1_WD,P6_W,P6,WD,wound,tissue,1,2,2014,5,2,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760124,ERX1826444,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_4_WS,P6_W,P6,WS,wound,swab,4,2,2014,0,0,healing,NA,No,NA,NA,Gardiner2017,ERR1760136,ERX1826456,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_3_WS,P6_W,P6,WS,wound,swab,3,2,2014,3,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760132,ERX1826452,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_2_WS,P6_W,P6,WS,wound,swab,2,2,2014,4,2,healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760129,ERX1826449,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_1_WS,P6_W,P6,WS,wound,swab,1,2,2014,5,2,non-healing,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760125,ERX1826445,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P6_0_WS,P6_W,P6,WS,wound,swab,0,2,2014,4,3.5,NA,"Prontasan, Allevyn",No,NA,NA,Gardiner2017,ERR1760121,ERX1826441,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_4_SA,P7_W,P7,SA,adjacent,swab,4,2,2014,0,0,NA,NA,No,NA,NA,Gardiner2017,ERR1759966,ERX1826286,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_3_SA,P7_W,P7,SA,adjacent,swab,3,2,2014,0,0,healing,NA,No,NA,NA,Gardiner2017,ERR1759963,ERX1826283,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_2_SA,P7_W,P7,SA,adjacent,swab,2,2,2014,18,3,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759959,ERX1826279,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_1_SA,P7_W,P7,SA,adjacent,swab,1,2,2014,66,2,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759955,ERX1826275,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_0_SA,P7_W,P7,SA,adjacent,swab,0,2,2014,72,2,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759951,ERX1826271,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_4_SC,P7_W,P7,SC,contralateral,swab,4,2,2014,0,0,NA,NA,No,NA,NA,Gardiner2017,ERR1759967,ERX1826287,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_3_SC,P7_W,P7,SC,contralateral,swab,3,2,2014,0,0,healing,NA,No,NA,NA,Gardiner2017,ERR1759964,ERX1826284,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_2_SC,P7_W,P7,SC,contralateral,swab,2,2,2014,18,3,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759960,ERX1826280,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_1_SC,P7_W,P7,SC,contralateral,swab,1,2,2014,66,2,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759956,ERX1826276,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_0_SC,P7_W,P7,SC,contralateral,swab,0,2,2014,72,2,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759952,ERX1826272,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_2_WD,P7_W,P7,WD,wound,tissue,2,2,2014,18,3,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759961,ERX1826281,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_1_WD,P7_W,P7,WD,wound,tissue,1,2,2014,66,2,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759957,ERX1826277,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_0_WD,P7_W,P7,WD,wound,tissue,0,2,2014,72,2,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759953,ERX1826273,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_3_WS,P7_W,P7,WS,wound,swab,3,2,2014,0,0,healing,NA,No,NA,NA,Gardiner2017,ERR1759965,ERX1826285,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_2_WS,P7_W,P7,WS,wound,swab,2,2,2014,18,3,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759962,ERX1826282,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_1_WS,P7_W,P7,WS,wound,swab,1,2,2014,66,2,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759958,ERX1826278,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P7_0_WS,P7_W,P7,WS,wound,swab,0,2,2014,72,2,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759954,ERX1826274,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_5_SA,P8_W,P8,SA,adjacent,swab,5,2,2014,40,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759984,ERX1826304,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_3_SA,P8_W,P8,SA,adjacent,swab,3,2,2014,40,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759980,ERX1826300,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_2_SA,P8_W,P8,SA,adjacent,swab,2,2,2014,35,1,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759976,ERX1826296,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_1_SA,P8_W,P8,SA,adjacent,swab,1,2,2014,48,4,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759972,ERX1826292,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_0_SA,P8_W,P8,SA,adjacent,swab,0,2,2014,16,4,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759968,ERX1826288,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_5_SC,P8_W,P8,SC,contralateral,swab,5,2,2014,40,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759985,ERX1826305,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_3_SC,P8_W,P8,SC,contralateral,swab,3,2,2014,40,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759981,ERX1826301,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_2_SC,P8_W,P8,SC,contralateral,swab,2,2,2014,35,1,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759977,ERX1826297,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_1_SC,P8_W,P8,SC,contralateral,swab,1,2,2014,48,4,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759973,ERX1826293,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_0_SC,P8_W,P8,SC,contralateral,swab,0,2,2014,16,4,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759969,ERX1826289,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_5_WD,P8_W,P8,WD,wound,tissue,5,2,2014,40,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759986,ERX1826306,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_3_WD,P8_W,P8,WD,wound,tissue,3,2,2014,40,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759982,ERX1826302,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_2_WD,P8_W,P8,WD,wound,tissue,2,2,2014,35,1,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759978,ERX1826298,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_1_WD,P8_W,P8,WD,wound,tissue,1,2,2014,48,4,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759974,ERX1826294,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_0_WD,P8_W,P8,WD,wound,tissue,0,2,2014,16,4,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759970,ERX1826290,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_5_WS,P8_W,P8,WS,wound,swab,5,2,2014,40,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759987,ERX1826307,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_3_WS,P8_W,P8,WS,wound,swab,3,2,2014,40,1,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759983,ERX1826303,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_2_WS,P8_W,P8,WS,wound,swab,2,2,2014,35,1,healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759979,ERX1826299,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_1_WS,P8_W,P8,WS,wound,swab,1,2,2014,48,4,non-healing,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759975,ERX1826295,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P8_0_WS,P8_W,P8,WS,wound,swab,0,2,2014,16,4,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759971,ERX1826291,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_5_SA,P9_W,P9,SA,adjacent,swab,5,2,2014,171,1,healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1760005,ERX1826325,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_4_SA,P9_W,P9,SA,adjacent,swab,4,2,2014,220,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1760002,ERX1826322,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_3_SA,P9_W,P9,SA,adjacent,swab,3,2,2014,220,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1760000,ERX1826320,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_2_SA,P9_W,P9,SA,adjacent,swab,2,2,2014,220,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759996,ERX1826316,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_1_SA,P9_W,P9,SA,adjacent,swab,1,2,2014,200,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759992,ERX1826312,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_0_SA,P9_W,P9,SA,adjacent,swab,0,2,2014,200,1,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759988,ERX1826308,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_5_SC,P9_W,P9,SC,contralateral,swab,5,2,2014,171,1,healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1760006,ERX1826326,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_4_SC,P9_W,P9,SC,contralateral,swab,4,2,2014,220,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1760003,ERX1826323,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_3_SC,P9_W,P9,SC,contralateral,swab,3,2,2014,220,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1760001,ERX1826321,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_2_SC,P9_W,P9,SC,contralateral,swab,2,2,2014,220,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759997,ERX1826317,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_1_SC,P9_W,P9,SC,contralateral,swab,1,2,2014,200,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759993,ERX1826313,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_0_SC,P9_W,P9,SC,contralateral,swab,0,2,2014,200,1,NA,"Prontosan, Inadine",No,NA,NA,Gardiner2017,ERR1759989,ERX1826309,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_5_WD,P9_W,P9,WD,wound,tissue,5,2,2014,171,1,healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1760007,ERX1826327,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_2_WD,P9_W,P9,WD,wound,tissue,2,2,2014,220,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759998,ERX1826318,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_1_WD,P9_W,P9,WD,wound,tissue,1,2,2014,200,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759994,ERX1826314,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_0_WD,P9_W,P9,WD,wound,tissue,0,2,2014,200,1,NA,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759990,ERX1826310,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_5_WS,P9_W,P9,WS,wound,swab,5,2,2014,171,1,healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1760008,ERX1826328,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_4_WS,P9_W,P9,WS,wound,swab,4,2,2014,220,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1760004,ERX1826324,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_2_WS,P9_W,P9,WS,wound,swab,2,2,2014,220,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759999,ERX1826319,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_1_WS,P9_W,P9,WS,wound,swab,1,2,2014,200,1,non-healing,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759995,ERX1826315,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+P9_0_WS,P9_W,P9,WS,wound,swab,0,2,2014,200,1,NA,"Prontosan, Acticoat flex",No,NA,NA,Gardiner2017,ERR1759991,ERX1826311,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+DW_mid92,DW_mid92,mid92,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803248,SRX7477250,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid91,DW_mid91,mid91,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803249,SRX7477249,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid89,DW_mid89,mid89,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803252,SRX7477246,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid87,DW_mid87,mid87,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803254,SRX7477244,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid85,DW_mid85,mid85,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803256,SRX7477242,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid83,DW_mid83,mid83,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803258,SRX7477240,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid80,DW_mid80,mid80,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803262,SRX7477236,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid79,DW_mid79,mid79,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803263,SRX7477235,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid44,DW_mid44,mid44,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803269,SRX7477229,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid37,DW_mid37,mid37,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803277,SRX7477221,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid35,DW_mid35,mid35,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803279,SRX7477219,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid113,DW_mid113,mid113,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803281,SRX7477217,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid12,DW_mid12,mid12,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803284,SRX7477214,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid107,DW_mid107,mid107,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803288,SRX7477210,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid105,DW_mid105,mid105,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803290,SRX7477208,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid102,DW_mid102,mid102,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803293,SRX7477205,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid101,DW_mid101,mid101,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803294,SRX7477204,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid11,DW_mid11,mid11,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803295,SRX7477203,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid78,DW_mid78,mid78,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803296,SRX7477202,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid76,DW_mid76,mid76,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803298,SRX7477200,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid74,DW_mid74,mid74,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803300,SRX7477198,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid73,DW_mid73,mid73,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803301,SRX7477197,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid67,DW_mid67,mid67,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803308,SRX7477190,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid64,DW_mid64,mid64,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803311,SRX7477187,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid34,DW_mid34,mid34,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803312,SRX7477186,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid33,DW_mid33,mid33,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803313,SRX7477185,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid32,DW_mid32,mid32,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803314,SRX7477184,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid4,DW_mid4,mid4,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803316,SRX7477182,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid29,DW_mid29,mid29,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803318,SRX7477180,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid26,DW_mid26,mid26,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803321,SRX7477177,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid24,DW_mid24,mid24,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803323,SRX7477175,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid21,DW_mid21,mid21,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803326,SRX7477172,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid3,DW_mid3,mid3,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803327,SRX7477171,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid99,DW_mid99,mid99,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803329,SRX7477169,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid95,DW_mid95,mid95,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803333,SRX7477165,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid94,DW_mid94,mid94,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803334,SRX7477164,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid61,DW_mid61,mid61,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803338,SRX7477160,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid60,DW_mid60,mid60,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803340,SRX7477158,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid58,DW_mid58,mid58,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803342,SRX7477156,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid56,DW_mid56,mid56,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803344,SRX7477154,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid6,DW_mid6,mid6,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803350,SRX7477148,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid16,DW_mid16,mid16,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803356,SRX7477142,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid122,DW_mid122,mid122,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803359,SRX7477139,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid13,DW_mid13,mid13,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803361,SRX7477137,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid119,DW_mid119,mid119,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803363,SRX7477135,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid117,DW_mid117,mid117,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803365,SRX7477133,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid115,DW_mid115,mid115,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803367,SRX7477131,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid10,DW_mid10,mid10,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803250,SRX7477248,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid90,DW_mid90,mid90,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803251,SRX7477247,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid88,DW_mid88,mid88,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803253,SRX7477245,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid86,DW_mid86,mid86,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803255,SRX7477243,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid82,DW_mid82,mid82,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803259,SRX7477239,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid81,DW_mid81,mid81,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803260,SRX7477238,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid9,DW_mid9,mid9,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803261,SRX7477237,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid49,DW_mid49,mid49,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803264,SRX7477234,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid46,DW_mid46,mid46,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803267,SRX7477231,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid45,DW_mid45,mid45,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803268,SRX7477230,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid42,DW_mid42,mid42,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803271,SRX7477227,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid5,DW_mid5,mid5,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803273,SRX7477225,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid40,DW_mid40,mid40,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803274,SRX7477224,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid38,DW_mid38,mid38,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803276,SRX7477222,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid36,DW_mid36,mid36,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803278,SRX7477220,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid114,DW_mid114,mid114,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803280,SRX7477218,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid112,DW_mid112,mid112,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803282,SRX7477216,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid111,DW_mid111,mid111,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803283,SRX7477215,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid110,DW_mid110,mid110,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803285,SRX7477213,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid108,DW_mid108,mid108,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803287,SRX7477211,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid106,DW_mid106,mid106,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803289,SRX7477209,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid104,DW_mid104,mid104,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803291,SRX7477207,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid103,DW_mid103,mid103,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803292,SRX7477206,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid72,DW_mid72,mid72,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803302,SRX7477196,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid71,DW_mid71,mid71,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803303,SRX7477195,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid70,DW_mid70,mid70,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803305,SRX7477193,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid69,DW_mid69,mid69,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803306,SRX7477192,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid68,DW_mid68,mid68,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803307,SRX7477191,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid30,DW_mid30,mid30,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803317,SRX7477181,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid28,DW_mid28,mid28,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803319,SRX7477179,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid23,DW_mid23,mid23,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803324,SRX7477174,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid100,DW_mid100,mid100,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803328,SRX7477170,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid98,DW_mid98,mid98,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803330,SRX7477168,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid97,DW_mid97,mid97,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803331,SRX7477167,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid96,DW_mid96,mid96,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803332,SRX7477166,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid93,DW_mid93,mid93,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803335,SRX7477163,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid7,DW_mid7,mid7,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803339,SRX7477159,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid59,DW_mid59,mid59,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803341,SRX7477157,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid57,DW_mid57,mid57,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803343,SRX7477155,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid54,DW_mid54,mid54,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803346,SRX7477152,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid52,DW_mid52,mid52,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803348,SRX7477150,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid51,DW_mid51,mid51,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803349,SRX7477149,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid50,DW_mid50,mid50,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803351,SRX7477147,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid19,DW_mid19,mid19,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803353,SRX7477145,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid18,DW_mid18,mid18,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803354,SRX7477144,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid17,DW_mid17,mid17,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803355,SRX7477143,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid15,DW_mid15,mid15,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803357,SRX7477141,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid14,DW_mid14,mid14,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803358,SRX7477140,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid121,DW_mid121,mid121,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803360,SRX7477138,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid120,DW_mid120,mid120,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803362,SRX7477136,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid118,DW_mid118,mid118,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803364,SRX7477134,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid116,DW_mid116,mid116,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803366,SRX7477132,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+DW_mid1,DW_mid1,mid1,DFU,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803369,SRX7477129,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid47,NDW_mid47,mid47,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803266,SRX7477232,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid41,NDW_mid41,mid41,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803272,SRX7477226,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid39,NDW_mid39,mid39,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803275,SRX7477223,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid109,NDW_mid109,mid109,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803286,SRX7477212,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid77,NDW_mid77,mid77,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803297,SRX7477201,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid66,NDW_mid66,mid66,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803309,SRX7477189,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid27,NDW_mid27,mid27,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803320,SRX7477178,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid22,NDW_mid22,mid22,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803325,SRX7477173,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid63,NDW_mid63,mid63,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803336,SRX7477162,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid55,NDW_mid55,mid55,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803345,SRX7477153,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid53,NDW_mid53,mid53,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803347,SRX7477151,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid20,NDW_mid20,mid20,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803352,SRX7477146,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid84,NDW_mid84,mid84,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803257,SRX7477241,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid48,NDW_mid48,mid48,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803265,SRX7477233,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid43,NDW_mid43,mid43,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803270,SRX7477228,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid75,NDW_mid75,mid75,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803299,SRX7477199,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid8,NDW_mid8,mid8,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803304,SRX7477194,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid65,NDW_mid65,mid65,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803310,SRX7477188,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid31,NDW_mid31,mid31,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803315,SRX7477183,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid25,NDW_mid25,mid25,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803322,SRX7477176,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid62,NDW_mid62,mid62,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803337,SRX7477161,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+NDW_mid2,NDW_mid2,mid2,non-diabetic wound,wound,swab,0,NA,2020,NA,NA,NA,NA,No,NA,NA,Jnana2020,SRR10803368,SRX7477130,16S amplicon,"V2, V3, V4, V67, V8, V9",250,Ion Torrent,PGM,Single,No,NA
+115089,W102,102,wound,wound,swab,0,2,2016,17,2,NA,TCC,No,NA,NA,Loesche2017,SRR3666267,SRX1844669,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115090,W104,104,wound,wound,swab,0,2,2016,239,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666268,SRX1844670,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115189,W104,104,wound,wound,swab,1,2,2016,239,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666269,SRX1844671,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115190,W104,104,wound,wound,swab,2,2,2016,8,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666270,SRX1844672,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115091,W105,105,wound,wound,swab,0,2,2016,60,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666271,SRX1844673,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115191,W105,105,wound,wound,swab,1,2,2016,16,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666272,SRX1844674,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115092,W106,106,wound,wound,swab,0,2,2016,477,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666273,SRX1844675,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115192,W106,106,wound,wound,swab,1,2,2016,233,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666274,SRX1844676,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115193,W106,106,wound,wound,swab,2,2,2016,76,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666275,SRX1844677,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115194,W106,106,wound,wound,swab,3,2,2016,60,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666276,SRX1844678,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115195,W106,106,wound,wound,swab,4,2,2016,11,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666277,SRX1844679,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115196,W106,106,wound,wound,swab,5,2,2016,18,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666278,SRX1844680,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115197,W106,106,wound,wound,swab,6,2,2016,15,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666279,SRX1844681,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115093,W107,107,wound,wound,swab,0,2,2016,85,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666280,SRX1844682,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115198,W107,107,wound,wound,swab,1,2,2016,85,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666281,SRX1844683,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115094,W108,108,wound,wound,swab,0,2,2016,23,2,NA,TCC,No,NA,NA,Loesche2017,SRR3666282,SRX1844684,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115095,W109,109,wound,wound,swab,0,2,2016,713,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666283,SRX1844685,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115199,W109,109,wound,wound,swab,1,2,2016,520,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666284,SRX1844686,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115200,W109,109,wound,wound,swab,2,2,2016,518,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666285,SRX1844687,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115201,W109,109,wound,wound,swab,3,2,2016,231,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666286,SRX1844688,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115202,W109,109,wound,wound,swab,4,2,2016,211,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666287,SRX1844689,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115203,W109,109,wound,wound,swab,5,2,2016,89,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666288,SRX1844690,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115204,W109,109,wound,wound,swab,6,2,2016,88,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666289,SRX1844691,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115205,W109,109,wound,wound,swab,7,2,2016,22,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666290,SRX1844692,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115096,W110,110,wound,wound,swab,0,2,2016,16,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666291,SRX1844694,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115097,W111,111,wound,wound,swab,0,2,2016,922,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666292,SRX1844695,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115206,W111,111,wound,wound,swab,1,2,2016,474,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666293,SRX1844696,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115207,W111,111,wound,wound,swab,2,2,2016,120,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666294,SRX1844697,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115208,W111,111,wound,wound,swab,3,2,2016,15,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666295,SRX1844698,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115098,W112,112,wound,wound,swab,0,2,2016,165,8,NA,TCC,No,NA,NA,Loesche2017,SRR3666296,SRX1844699,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115209,W112,112,wound,wound,swab,1,2,2016,82,5,healing,TCC,No,NA,NA,Loesche2017,SRR3666297,SRX1844700,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115210,W112,112,wound,wound,swab,2,2,2016,18,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666298,SRX1844701,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115211,W112,112,wound,wound,swab,3,2,2016,42,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666299,SRX1844702,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115099,W113,113,wound,wound,swab,0,2,2016,19,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666300,SRX1844703,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115100,W114,114,wound,wound,swab,0,2,2016,17,1,NA,TCC,No,NA,NA,Loesche2017,SRR3666301,SRX1844704,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115101,W115,115,wound,wound,swab,0,2,2016,375,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666302,SRX1844705,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115212,W115,115,wound,wound,swab,1,2,2016,202,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666303,SRX1844706,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115213,W115,115,wound,wound,swab,2,2,2016,98,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666304,SRX1844707,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115102,W116,116,wound,wound,swab,0,2,2016,168,3,NA,TCC,No,NA,NA,Loesche2017,SRR3666305,SRX1844708,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115214,W116,116,wound,wound,swab,1,2,2016,105,6,healing,TCC,No,NA,NA,Loesche2017,SRR3666306,SRX1844709,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115215,W116,116,wound,wound,swab,2,2,2016,68,2,healing,TCC,No,NA,NA,Loesche2017,SRR3666307,SRX1844710,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115103,W117,117,wound,wound,swab,0,2,2016,290,5,NA,TCC,No,NA,NA,Loesche2017,SRR3666308,SRX1844711,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115216,W117,117,wound,wound,swab,1,2,2016,157,5,healing,TCC,No,NA,NA,Loesche2017,SRR3666309,SRX1844712,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115217,W117,117,wound,wound,swab,2,2,2016,32,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666310,SRX1844713,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115218,W117,117,wound,wound,swab,3,2,2016,40,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666311,SRX1844714,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115219,W117,117,wound,wound,swab,4,2,2016,63,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666312,SRX1844715,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115220,W117,117,wound,wound,swab,5,2,2016,4,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666313,SRX1844716,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115104,W118,118,wound,wound,swab,0,2,2016,16,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666314,SRX1844717,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115105,W119,119,wound,wound,swab,0,2,2016,184,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666315,SRX1844718,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115221,W119,119,wound,wound,swab,1,2,2016,104,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666316,SRX1844719,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115222,W119,119,wound,wound,swab,2,2,2016,20,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666317,SRX1844720,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115106,W120,120,wound,wound,swab,0,2,2016,254,9,NA,TCC,No,NA,NA,Loesche2017,SRR3666318,SRX1844721,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115223,W120,120,wound,wound,swab,1,2,2016,201,5,healing,TCC,No,NA,NA,Loesche2017,SRR3666319,SRX1844722,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115224,W120,120,wound,wound,swab,3,2,2016,41,3,healing,TCC,No,NA,NA,Loesche2017,SRR3666320,SRX1844723,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115225,W120,120,wound,wound,swab,4,2,2016,16,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666321,SRX1844724,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115226,W120,120,wound,wound,swab,5,2,2016,120,3,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666322,SRX1844725,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115107,W121,121,wound,wound,swab,0,2,2016,20,2,NA,TCC,No,NA,NA,Loesche2017,SRR3666323,SRX1844726,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115108,W122,122,wound,wound,swab,0,2,2016,250,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666324,SRX1844727,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115227,W122,122,wound,wound,swab,1,2,2016,101,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666325,SRX1844728,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115228,W122,122,wound,wound,swab,2,2,2016,44,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666326,SRX1844729,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115229,W122,122,wound,wound,swab,3,2,2016,7,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666327,SRX1844730,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115109,W123,123,wound,wound,swab,0,2,2016,153,2,NA,TCC,No,NA,NA,Loesche2017,SRR3666328,SRX1844731,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115230,W123,123,wound,wound,swab,1,2,2016,24,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666329,SRX1844732,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115231,W123,123,wound,wound,swab,2,2,2016,29,3,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666330,SRX1844733,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115232,W123,123,wound,wound,swab,3,2,2016,89,3,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666331,SRX1844734,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115233,W123,123,wound,wound,swab,4,2,2016,19,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666332,SRX1844735,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115234,W123,123,wound,wound,swab,5,2,2016,10,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666333,SRX1844736,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115235,W123,123,wound,wound,swab,6,2,2016,13,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666334,SRX1844737,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115110,W124,124,wound,wound,swab,0,2,2016,1665,5,NA,TCC,No,NA,NA,Loesche2017,SRR3666335,SRX1844738,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115236,W124,124,wound,wound,swab,1,2,2016,1479,2,healing,TCC,No,NA,NA,Loesche2017,SRR3666336,SRX1844739,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115237,W124,124,wound,wound,swab,3,2,2016,587,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666337,SRX1844740,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115238,W124,124,wound,wound,swab,4,2,2016,482,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666338,SRX1844741,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115239,W124,124,wound,wound,swab,6,2,2016,738,12,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666339,SRX1844742,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115240,W124,124,wound,wound,swab,7,2,2016,974,3,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666340,SRX1844743,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115241,W124,124,wound,wound,swab,9,2,2016,1478,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666341,SRX1844744,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115242,W124,124,wound,wound,swab,11,2,2016,956,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666342,SRX1844745,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115243,W124,124,wound,wound,swab,12,2,2016,1115,6,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666343,SRX1844746,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115244,W124,124,wound,wound,swab,13,2,2016,889,13,healing,TCC,No,NA,NA,Loesche2017,SRR3666344,SRX1844747,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115111,W125,125,wound,wound,swab,0,2,2016,163,5,NA,TCC,No,NA,NA,Loesche2017,SRR3666345,SRX1844748,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115245,W125,125,wound,wound,swab,1,2,2016,3,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666346,SRX1844749,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115112,W126,126,wound,wound,swab,0,2,2016,67,7,NA,DH Boot,No,NA,NA,Loesche2017,SRR3666347,SRX1844750,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115246,W126,126,wound,wound,swab,1,2,2016,22,3,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666348,SRX1844751,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115113,W127,127,wound,wound,swab,0,2,2016,16,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666349,SRX1844752,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115247,W127,127,wound,wound,swab,1,2,2016,4,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666350,SRX1844753,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115114,W128,128,wound,wound,swab,0,2,2016,40,2,NA,TCC,No,NA,NA,Loesche2017,SRR3666351,SRX1844754,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115248,W128,128,wound,wound,swab,1,2,2016,23,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666352,SRX1844755,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115115,W130,130,wound,wound,swab,0,2,2016,29,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666353,SRX1844756,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115116,W131,131,wound,wound,swab,0,2,2016,90,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666354,SRX1844757,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115249,W131,131,wound,wound,swab,1,2,2016,2,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666355,SRX1844758,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115117,W132,132,wound,wound,swab,0,2,2016,35,0,NA,DH Boot,No,NA,NA,Loesche2017,SRR3666356,SRX1844759,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115250,W132,132,wound,wound,swab,2,2,2016,110,4,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666357,SRX1844760,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115251,W132,132,wound,wound,swab,3,2,2016,80,4,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666358,SRX1844761,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115252,W132,132,wound,wound,swab,4,2,2016,108,6,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666359,SRX1844762,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115253,W132,132,wound,wound,swab,5,2,2016,166,3,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666360,SRX1844763,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115254,W132,132,wound,wound,swab,6,2,2016,77,5,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666361,SRX1844764,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115255,W132,132,wound,wound,swab,7,2,2016,104,6,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666362,SRX1844765,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115119,W136,136,wound,wound,swab,0,2,2016,24,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666363,SRX1844766,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115120,W137,137,wound,wound,swab,0,2,2016,196,0,NA,DH Boot,No,NA,NA,Loesche2017,SRR3666364,SRX1844767,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115121,W138,138,wound,wound,swab,0,2,2016,678,4,NA,TCC,No,NA,NA,Loesche2017,SRR3666365,SRX1844768,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115122,W139,139,wound,wound,swab,0,2,2016,377,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666366,SRX1844769,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115258,W139,139,wound,wound,swab,1,2,2016,79,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666367,SRX1844770,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115123,W140,140,wound,wound,swab,0,2,2016,113,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666368,SRX1844771,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115124,W141,141,wound,wound,swab,0,2,2016,97,5,NA,TCC,No,NA,NA,Loesche2017,SRR3666369,SRX1844772,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115259,W141,141,wound,wound,swab,1,2,2016,38,3,healing,TCC,No,NA,NA,Loesche2017,SRR3666370,SRX1844773,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115260,W141,141,wound,wound,swab,2,2,2016,18,3,healing,TCC,No,NA,NA,Loesche2017,SRR3666371,SRX1844774,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115261,W141,141,wound,wound,swab,3,2,2016,10,1,healing,TCC,No,NA,NA,Loesche2017,SRR3666372,SRX1844775,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115262,W141,141,wound,wound,swab,4,2,2016,25,4,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666373,SRX1844776,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115263,W141,141,wound,wound,swab,5,2,2016,21,3,healing,TCC,No,NA,NA,Loesche2017,SRR3666374,SRX1844777,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115264,W141,141,wound,wound,swab,6,2,2016,36,5,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666375,SRX1844778,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115265,W141,141,wound,wound,swab,7,2,2016,36,5,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666376,SRX1844779,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115266,W141,141,wound,wound,swab,8,2,2016,108,8,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666377,SRX1844780,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115267,W141,141,wound,wound,swab,9,2,2016,244,14,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666378,SRX1844781,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115268,W141,141,wound,wound,swab,10,2,2016,123,9,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666379,SRX1844782,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115125,W142,142,wound,wound,swab,0,2,2016,5,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666380,SRX1844783,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115126,W143,143,wound,wound,swab,0,2,2016,120,6,NA,DH Boot,No,NA,NA,Loesche2017,SRR3666381,SRX1844784,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115269,W143,143,wound,wound,swab,1,2,2016,37,0,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666382,SRX1844785,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115270,W143,143,wound,wound,swab,3,2,2016,129,4,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666383,SRX1844786,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115271,W143,143,wound,wound,swab,4,2,2016,141,0,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666384,SRX1844787,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115272,W143,143,wound,wound,swab,5,2,2016,63,0,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666385,SRX1844788,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115273,W143,143,wound,wound,swab,6,2,2016,8,0,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666386,SRX1844789,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115274,W143,143,wound,wound,swab,7,2,2016,6,0,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666387,SRX1844790,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115127,W144,144,wound,wound,swab,0,2,2016,60,6,NA,TCC,No,NA,NA,Loesche2017,SRR3666388,SRX1844791,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115275,W144,144,wound,wound,swab,1,2,2016,70,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666389,SRX1844792,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115128,W145,145,wound,wound,swab,0,2,2016,124,8,NA,TCC,No,NA,NA,Loesche2017,SRR3666390,SRX1844793,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115276,W145,145,wound,wound,swab,1,2,2016,125,8,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666391,SRX1844794,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115277,W145,145,wound,wound,swab,2,2,2016,61,2,healing,TCC,No,NA,NA,Loesche2017,SRR3666392,SRX1844795,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115279,W145,145,wound,wound,swab,3,2,2016,36,3,healing,TCC,No,NA,NA,Loesche2017,SRR3666393,SRX1844797,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115280,W145,145,wound,wound,swab,4,2,2016,16,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666394,SRX1844798,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115129,W146,146,wound,wound,swab,0,2,2016,9,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666395,SRX1844799,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115281,W146,146,wound,wound,swab,1,2,2016,2,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666396,SRX1844800,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115130,W147,147,wound,wound,swab,0,2,2016,47,4,NA,TCC,No,NA,NA,Loesche2017,SRR3666397,SRX1844801,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115282,W147,147,wound,wound,swab,1,2,2016,30,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666398,SRX1844802,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115131,W148,148,wound,wound,swab,0,2,2016,32,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666399,SRX1844803,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115132,W149,149,wound,wound,swab,0,2,2016,152,2,NA,TCC,No,NA,NA,Loesche2017,SRR3666400,SRX1844804,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115283,W149,149,wound,wound,swab,1,2,2016,137,3,healing,TCC,No,NA,NA,Loesche2017,SRR3666401,SRX1844805,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115284,W149,149,wound,wound,swab,2,2,2016,89,3,healing,TCC,No,NA,NA,Loesche2017,SRR3666402,SRX1844806,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115285,W149,149,wound,wound,swab,3,2,2016,37,4,healing,TCC,No,NA,NA,Loesche2017,SRR3666403,SRX1844807,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115286,W149,149,wound,wound,swab,4,2,2016,27,3,healing,TCC,No,NA,NA,Loesche2017,SRR3666404,SRX1844808,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115287,W149,149,wound,wound,swab,5,2,2016,38,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666405,SRX1844809,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115288,W149,149,wound,wound,swab,6,2,2016,21,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666406,SRX1844810,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115289,W149,149,wound,wound,swab,7,2,2016,2,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666407,SRX1844811,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115134,W151,151,wound,wound,swab,0,2,2016,7,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666408,SRX1844812,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115135,W152,152,wound,wound,swab,0,2,2016,69,7,NA,TCC,No,NA,NA,Loesche2017,SRR3666409,SRX1844813,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115136,W153,153,wound,wound,swab,0,2,2016,186,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666410,SRX1844814,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115291,W153,153,wound,wound,swab,1,2,2016,5,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666411,SRX1844815,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115137,W154,154,wound,wound,swab,0,2,2016,738,3,NA,TCC,No,NA,NA,Loesche2017,SRR3666412,SRX1844816,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115292,W154,154,wound,wound,swab,1,2,2016,3,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666413,SRX1844817,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115138,W155,155,wound,wound,swab,0,2,2016,41,4,NA,TCC,No,NA,NA,Loesche2017,SRR3666414,SRX1844818,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115139,W158,158,wound,wound,swab,0,2,2016,201,4,NA,TCC,No,NA,NA,Loesche2017,SRR3666415,SRX1844819,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115140,W159,159,wound,wound,swab,0,2,2016,163,2.5,NA,TCC,No,NA,NA,Loesche2017,SRR3666416,SRX1844820,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115293,W159,159,wound,wound,swab,1,2,2016,19,2,healing,TCC,No,NA,NA,Loesche2017,SRR3666417,SRX1844821,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115294,W159,159,wound,wound,swab,2,2,2016,20,2,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666418,SRX1844822,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115295,W159,159,wound,wound,swab,3,2,2016,14,2.1,healing,TCC,No,NA,NA,Loesche2017,SRR3666419,SRX1844823,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115296,W159,159,wound,wound,swab,4,2,2016,2,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666420,SRX1844824,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115141,W160,160,wound,wound,swab,0,2,2016,271,5,NA,TCC,No,NA,NA,Loesche2017,SRR3666421,SRX1844825,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115297,W160,160,wound,wound,swab,1,2,2016,326,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666422,SRX1844826,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115298,W160,160,wound,wound,swab,2,2,2016,16,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666423,SRX1844827,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115299,W160,160,wound,wound,swab,3,2,2016,168,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666424,SRX1844828,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115142,W161,161,wound,wound,swab,0,2,2016,140,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666425,SRX1844829,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115300,W161,161,wound,wound,swab,1,2,2016,86,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666426,SRX1844830,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115301,W161,161,wound,wound,swab,2,2,2016,38,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666427,SRX1844831,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115302,W161,161,wound,wound,swab,3,2,2016,20,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666428,SRX1844832,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115303,W161,161,wound,wound,swab,4,2,2016,3,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666429,SRX1844833,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115143,W162,162,wound,wound,swab,0,2,2016,51,2,NA,TCC,No,NA,NA,Loesche2017,SRR3666430,SRX1844834,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115304,W162,162,wound,wound,swab,1,2,2016,28,2,healing,TCC,No,NA,NA,Loesche2017,SRR3666431,SRX1844835,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115305,W162,162,wound,wound,swab,2,2,2016,47,2.6,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666432,SRX1844836,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115144,W163,163,wound,wound,swab,0,2,2016,24,4.2,NA,TCC,No,NA,NA,Loesche2017,SRR3666433,SRX1844837,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115145,W164,164,wound,wound,swab,0,2,2016,38,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666434,SRX1844838,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115146,W165,165,wound,wound,swab,0,2,2016,280,10.6,NA,TCC,No,NA,NA,Loesche2017,SRR3666435,SRX1844839,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115306,W165,165,wound,wound,swab,1,2,2016,379,8,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666437,SRX1844840,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115147,W166,166,wound,wound,swab,0,2,2016,371,3.5,NA,TCC,NA,NA,NA,Loesche2017,SRR3666438,SRX1844841,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115307,W166,166,wound,wound,swab,1,2,2016,45,4.2,healing,TCC,NA,NA,NA,Loesche2017,SRR3666439,SRX1844842,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115308,W166,166,wound,wound,swab,2,2,2016,49,3.5,non-healing,TCC,NA,NA,NA,Loesche2017,SRR3666440,SRX1844843,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115309,W166,166,wound,wound,swab,3,2,2016,7,3,healing,TCC,NA,NA,NA,Loesche2017,SRR3666441,SRX1844844,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115310,W166,166,wound,wound,swab,4,2,2016,6,1.8,healing,TCC,NA,NA,NA,Loesche2017,SRR3666442,SRX1844845,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115311,W166,166,wound,wound,swab,5,2,2016,89,3.2,non-healing,TCC,NA,NA,NA,Loesche2017,SRR3666443,SRX1844846,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115312,W166,166,wound,wound,swab,6,2,2016,75,4,healing,TCC,NA,NA,NA,Loesche2017,SRR3666444,SRX1844847,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115313,W166,166,wound,wound,swab,7,2,2016,49,4.5,healing,TCC,NA,NA,NA,Loesche2017,SRR3666445,SRX1844848,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115148,W168,168,wound,wound,swab,0,2,2016,3,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666446,SRX1844849,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115149,W169,169,wound,wound,swab,0,2,2016,49,1.2,NA,TCC,No,NA,NA,Loesche2017,SRR3666447,SRX1844850,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115314,W169,169,wound,wound,swab,1,2,2016,7,1.7,healing,TCC,No,NA,NA,Loesche2017,SRR3666448,SRX1844851,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115150,W170,170,wound,wound,swab,0,2,2016,81,2,NA,DH Boot,No,NA,NA,Loesche2017,SRR3666449,SRX1844852,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115315,W170,170,wound,wound,swab,1,2,2016,93,0,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666450,SRX1844853,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115316,W170,170,wound,wound,swab,2,2,2016,1,0,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666451,SRX1844854,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115151,W171,171,wound,wound,swab,0,2,2016,603,4.9,NA,TCC,No,NA,NA,Loesche2017,SRR3666452,SRX1844855,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115317,W171,171,wound,wound,swab,1,2,2016,306,5.5,healing,TCC,No,NA,NA,Loesche2017,SRR3666453,SRX1844856,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115318,W171,171,wound,wound,swab,2,2,2016,95,4.4,healing,TCC,No,NA,NA,Loesche2017,SRR3666454,SRX1844857,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115319,W171,171,wound,wound,swab,3,2,2016,105,5.7,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666455,SRX1844858,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115320,W171,171,wound,wound,swab,4,2,2016,68,5.1,healing,TCC,No,NA,NA,Loesche2017,SRR3666456,SRX1844859,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115321,W171,171,wound,wound,swab,5,2,2016,153,3.3,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666457,SRX1844860,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115322,W171,171,wound,wound,swab,6,2,2016,42,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666458,SRX1844861,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115152,W172,172,wound,wound,swab,0,2,2016,130,2.2,NA,TCC,No,NA,NA,Loesche2017,SRR3666459,SRX1844862,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115153,W173,173,wound,wound,swab,0,2,2016,66,1.7,NA,TCC,No,NA,NA,Loesche2017,SRR3666460,SRX1844863,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115323,W173,173,wound,wound,swab,1,2,2016,4,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666461,SRX1844864,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115324,W173,173,wound,wound,swab,2,2,2016,3,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666462,SRX1844865,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115325,W173,173,wound,wound,swab,3,2,2016,202,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666463,SRX1844866,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115326,W173,173,wound,wound,swab,4,2,2016,4,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666464,SRX1844867,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115154,W174,174,wound,wound,swab,0,2,2016,54,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666465,SRX1844868,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115155,W175,175,wound,wound,swab,0,2,2016,185,4.6,NA,TCC,No,NA,NA,Loesche2017,SRR3666466,SRX1844869,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115327,W175,175,wound,wound,swab,1,2,2016,46,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666467,SRX1844870,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115328,W175,175,wound,wound,swab,2,2,2016,54,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666468,SRX1844871,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115329,W175,175,wound,wound,swab,3,2,2016,119,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666469,SRX1844872,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115330,W175,175,wound,wound,swab,4,2,2016,35,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666470,SRX1844873,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115331,W175,175,wound,wound,swab,5,2,2016,26,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666471,SRX1844874,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115332,W175,175,wound,wound,swab,6,2,2016,35,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666472,SRX1844875,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115333,W175,175,wound,wound,swab,7,2,2016,50,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666473,SRX1844876,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115334,W175,175,wound,wound,swab,8,2,2016,7,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666474,SRX1844877,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115335,W175,175,wound,wound,swab,9,2,2016,8,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666475,SRX1844878,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115336,W175,175,wound,wound,swab,10,2,2016,8,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666476,SRX1844879,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115337,W175,175,wound,wound,swab,11,2,2016,30,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666477,SRX1844880,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115338,W175,175,wound,wound,swab,12,2,2016,9,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666478,SRX1844881,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115156,W176,176,wound,wound,swab,0,2,2016,668,3.3,NA,TCC,No,NA,NA,Loesche2017,SRR3666479,SRX1844882,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115339,W176,176,wound,wound,swab,1,2,2016,244,3.5,healing,TCC,No,NA,NA,Loesche2017,SRR3666480,SRX1844883,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115340,W176,176,wound,wound,swab,2,2,2016,116,5.9,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666481,SRX1844884,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115341,W176,176,wound,wound,swab,3,2,2016,79,3.2,healing,TCC,No,NA,NA,Loesche2017,SRR3666482,SRX1844885,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115342,W176,176,wound,wound,swab,4,2,2016,175,7,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666483,SRX1844886,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115343,W176,176,wound,wound,swab,6,2,2016,258,3.6,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666484,SRX1844888,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115344,W176,176,wound,wound,swab,8,2,2016,187,4.9,healing,TCC,No,NA,NA,Loesche2017,SRR3666485,SRX1844889,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115345,W176,176,wound,wound,swab,9,2,2016,537,6.1,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666486,SRX1844890,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115346,W176,176,wound,wound,swab,10,2,2016,172,5.3,healing,TCC,No,NA,NA,Loesche2017,SRR3666487,SRX1844891,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115347,W176,176,wound,wound,swab,11,2,2016,131,6.7,healing,TCC,No,NA,NA,Loesche2017,SRR3666488,SRX1844892,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115348,W176,176,wound,wound,swab,12,2,2016,419,7.8,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666489,SRX1844893,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115349,W176,176,wound,wound,swab,13,2,2016,223,6,healing,TCC,No,NA,NA,Loesche2017,SRR3666490,SRX1844894,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115157,W177,177,wound,wound,swab,0,2,2016,414,5.2,NA,TCC,No,NA,NA,Loesche2017,SRR3666491,SRX1844895,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115350,W177,177,wound,wound,swab,1,2,2016,1146,4.1,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666492,SRX1844896,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115351,W177,177,wound,wound,swab,2,2,2016,316,5.4,healing,TCC,No,NA,NA,Loesche2017,SRR3666493,SRX1844897,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115352,W177,177,wound,wound,swab,3,2,2016,143,3.6,healing,TCC,No,NA,NA,Loesche2017,SRR3666494,SRX1844898,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115353,W177,177,wound,wound,swab,4,2,2016,33,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666495,SRX1844899,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115158,W178,178,wound,wound,swab,0,2,2016,255,3.9,NA,TCC,No,NA,NA,Loesche2017,SRR3666496,SRX1844900,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+merge178_1,W178,178,wound,wound,swab,1,2,2016,148,4.2,healing,TCC,No,NA,NA,Loesche2017,SRR3666497,SRX1844901,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115356,W178,178,wound,wound,swab,2,2,2016,167,4.4,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666498,SRX1844902,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115357,W178,178,wound,wound,swab,3,2,2016,83,7.1,healing,TCC,No,NA,NA,Loesche2017,SRR3666499,SRX1844903,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115358,W178,178,wound,wound,swab,4,2,2016,20,3.4,healing,TCC,No,NA,NA,Loesche2017,SRR3666500,SRX1844904,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115359,W178,178,wound,wound,swab,5,2,2016,1,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666501,SRX1844905,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+merge178_6,W178,178,wound,wound,swab,6,2,2016,1,0,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666502,SRX1844906,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115159,W179,179,wound,wound,swab,0,2,2016,154,5.5,NA,TCC,NA,NA,NA,Loesche2017,SRR3666503,SRX1844907,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115362,W179,179,wound,wound,swab,2,2,2016,224,7.5,non-healing,TCC,NA,NA,NA,Loesche2017,SRR3666504,SRX1844908,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115160,W180,180,wound,wound,swab,0,2,2016,63,3.2,NA,TCC,Yes,NA,NA,Loesche2017,SRR3666505,SRX1844909,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115363,W180,180,wound,wound,swab,1,2,2016,31,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666506,SRX1844910,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115161,W181,181,wound,wound,swab,0,2,2016,119,3.8,NA,TCC,No,NA,NA,Loesche2017,SRR3666507,SRX1844911,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115364,W181,181,wound,wound,swab,1,2,2016,20,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666508,SRX1844912,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115365,W181,181,wound,wound,swab,2,2,2016,5,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666509,SRX1844913,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115162,W182,182,wound,wound,swab,0,2,2016,746,6.4,NA,DH Boot,NA,NA,NA,Loesche2017,SRR3666510,SRX1844914,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115163,W183,183,wound,wound,swab,0,2,2016,278,7.6,NA,TCC,Yes,NA,NA,Loesche2017,SRR3666511,SRX1844915,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115366,W183,183,wound,wound,swab,1,2,2016,182,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666512,SRX1844916,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115367,W183,183,wound,wound,swab,2,2,2016,120,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666513,SRX1844917,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115368,W183,183,wound,wound,swab,3,2,2016,11,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666514,SRX1844918,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115164,W184,184,wound,wound,swab,0,2,2016,89,4.4,NA,DH Boot,No,NA,NA,Loesche2017,SRR3666515,SRX1844919,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115369,W184,184,wound,wound,swab,1,2,2016,102,4.6,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666516,SRX1844920,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115165,W185,185,wound,wound,swab,0,2,2016,190,4.1,NA,DH Boot,NA,NA,NA,Loesche2017,SRR3666517,SRX1844921,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115370,W185,185,wound,wound,swab,1,2,2016,142,7.8,healing,DH Boot,Yes,NA,NA,Loesche2017,SRR3666518,SRX1844922,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115166,W186,186,wound,wound,swab,0,2,2016,260,6.8,NA,TCC,Yes,NA,NA,Loesche2017,SRR3666519,SRX1844923,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115371,W186,186,wound,wound,swab,1,2,2016,123,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666520,SRX1844924,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115372,W186,186,wound,wound,swab,2,2,2016,152,4.3,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666521,SRX1844925,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115373,W186,186,wound,wound,swab,3,2,2016,148,5,healing,TCC,No,NA,NA,Loesche2017,SRR3666522,SRX1844926,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115375,W186,186,wound,wound,swab,4,2,2016,166,7.5,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666523,SRX1844927,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115376,W186,186,wound,wound,swab,5,2,2016,93,6.7,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666524,SRX1844928,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115377,W186,186,wound,wound,swab,6,2,2016,70,3.5,healing,TCC,No,NA,NA,Loesche2017,SRR3666525,SRX1844929,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115378,W186,186,wound,wound,swab,7,2,2016,56,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666526,SRX1844930,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115379,W186,186,wound,wound,swab,8,2,2016,30,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666527,SRX1844931,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115380,W186,186,wound,wound,swab,9,2,2016,24,4.3,healing,TCC,No,NA,NA,Loesche2017,SRR3666528,SRX1844932,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115381,W186,186,wound,wound,swab,10,2,2016,17,5.8,healing,TCC,No,NA,NA,Loesche2017,SRR3666529,SRX1844933,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115382,W186,186,wound,wound,swab,11,2,2016,46,6.6,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666530,SRX1844934,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115383,W186,186,wound,wound,swab,12,2,2016,49,5.8,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666531,SRX1844935,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115384,W186,186,wound,wound,swab,13,2,2016,333,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666532,SRX1844936,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115167,W187,187,wound,wound,swab,0,2,2016,530,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666533,SRX1844937,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115385,W187,187,wound,wound,swab,1,2,2016,222,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666534,SRX1844938,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115386,W187,187,wound,wound,swab,2,2,2016,28,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666535,SRX1844939,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115168,W188,188,wound,wound,swab,0,2,2016,15,0,NA,DH Boot,Yes,NA,NA,Loesche2017,SRR3666536,SRX1844940,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115169,W189,189,wound,wound,swab,0,2,2016,57,0,NA,DH Boot,No,NA,NA,Loesche2017,SRR3666537,SRX1844941,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115387,W189,189,wound,wound,swab,1,2,2016,31,0,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666538,SRX1844942,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115170,W190,190,wound,wound,swab,0,2,2016,131,19.1,NA,DH Boot,Yes,NA,NA,Loesche2017,SRR3666539,SRX1844943,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115388,W190,190,wound,wound,swab,1,2,2016,48,16.3,healing,DH Boot,Yes,NA,NA,Loesche2017,SRR3666540,SRX1844944,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115389,W190,190,wound,wound,swab,2,2,2016,29,10.8,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666541,SRX1844945,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115390,W190,190,wound,wound,swab,3,2,2016,2,6.6,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666542,SRX1844946,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115171,W191,191,wound,wound,swab,0,2,2016,72,4.2,NA,TCC,Yes,NA,NA,Loesche2017,SRR3666543,SRX1844947,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115391,W191,191,wound,wound,swab,1,2,2016,40,4.2,healing,TCC,No,NA,NA,Loesche2017,SRR3666544,SRX1844948,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115392,W191,191,wound,wound,swab,2,2,2016,39,6.7,healing,TCC,No,NA,NA,Loesche2017,SRR3666545,SRX1844949,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115393,W191,191,wound,wound,swab,3,2,2016,81,5.7,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666546,SRX1844950,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115394,W191,191,wound,wound,swab,4,2,2016,86,8.9,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666547,SRX1844951,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115395,W191,191,wound,wound,swab,5,2,2016,77,9.8,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666548,SRX1844952,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115396,W191,191,wound,wound,swab,6,2,2016,120,11.1,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666549,SRX1844953,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115397,W191,191,wound,wound,swab,7,2,2016,120,12.5,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666550,SRX1844954,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115398,W191,191,wound,wound,swab,9,2,2016,61,13.6,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666551,SRX1844955,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115399,W191,191,wound,wound,swab,10,2,2016,30,3.2,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666552,SRX1844956,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115402,W191,191,wound,wound,swab,11,2,2016,55,3.8,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666553,SRX1844957,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115400,W191,191,wound,wound,swab,12,2,2016,35,4,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666554,SRX1844958,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115401,W191,191,wound,wound,swab,13,2,2016,48,6.2,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666555,SRX1844959,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115172,W192,192,wound,wound,swab,0,2,2016,69,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666556,SRX1844960,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115403,W192,192,wound,wound,swab,1,2,2016,8,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666557,SRX1844961,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115173,W193,193,wound,wound,swab,0,2,2016,1372,0,NA,TCC,Yes,NA,NA,Loesche2017,SRR3666558,SRX1844962,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115404,W193,193,wound,wound,swab,1,2,2016,1110,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666559,SRX1844963,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115405,W193,193,wound,wound,swab,2,2,2016,493,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666560,SRX1844964,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115406,W193,193,wound,wound,swab,3,2,2016,78,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666561,SRX1844965,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115174,W194,194,wound,wound,swab,0,2,2016,73,6.3,NA,DH Boot,No,NA,NA,Loesche2017,SRR3666562,SRX1844966,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115175,W195,195,wound,wound,swab,0,2,2016,176,7,NA,TCC,Yes,NA,NA,Loesche2017,SRR3666563,SRX1844967,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115407,W195,195,wound,wound,swab,1,2,2016,78,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666564,SRX1844968,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115408,W195,195,wound,wound,swab,2,2,2016,12,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666565,SRX1844969,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115176,W196,196,wound,wound,swab,0,2,2016,1593,0,NA,TCC,Yes,NA,NA,Loesche2017,SRR3666566,SRX1844970,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115409,W196,196,wound,wound,swab,1,2,2016,1311,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666567,SRX1844971,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115410,W196,196,wound,wound,swab,2,2,2016,762,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666568,SRX1844972,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115411,W196,196,wound,wound,swab,3,2,2016,327,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666569,SRX1844973,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115412,W196,196,wound,wound,swab,4,2,2016,82,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666570,SRX1844974,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115177,W197,197,wound,wound,swab,0,2,2016,1468,9.2,NA,DH Boot,Yes,NA,NA,Loesche2017,SRR3666571,SRX1844976,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115413,W197,197,wound,wound,swab,1,2,2016,1324,18.9,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666572,SRX1844977,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115414,W197,197,wound,wound,swab,2,2,2016,1783,16.3,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666573,SRX1844978,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115415,W197,197,wound,wound,swab,3,2,2016,1653,12.8,healing,DH Boot,No,NA,NA,Loesche2017,SRR3666574,SRX1844979,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115416,W197,197,wound,wound,swab,4,2,2016,2483,11.8,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666575,SRX1844980,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115417,W197,197,wound,wound,swab,5,2,2016,2727,18.6,non-healing,DH Boot,No,NA,NA,Loesche2017,SRR3666576,SRX1844981,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115418,W197,197,wound,wound,swab,6,2,2016,2580,11,healing,DH Boot,Yes,NA,NA,Loesche2017,SRR3666577,SRX1844982,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115419,W197,197,wound,wound,swab,8,2,2016,3016,16.4,non-healing,DH Boot,Yes,NA,NA,Loesche2017,SRR3666578,SRX1844983,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115178,W198,198,wound,wound,swab,0,2,2016,792,0,NA,TCC,Yes,NA,NA,Loesche2017,SRR3666579,SRX1844984,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115420,W198,198,wound,wound,swab,1,2,2016,740,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666580,SRX1844985,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115421,W198,198,wound,wound,swab,2,2,2016,625,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666581,SRX1844986,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115422,W198,198,wound,wound,swab,3,2,2016,422,4,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666582,SRX1844987,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115423,W198,198,wound,wound,swab,4,2,2016,511,0,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666583,SRX1844988,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115425,W198,198,wound,wound,swab,5,2,2016,380,2.4,healing,TCC,No,NA,NA,Loesche2017,SRR3666584,SRX1844989,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115424,W198,198,wound,wound,swab,6,2,2016,213,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666585,SRX1844990,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115426,W198,198,wound,wound,swab,7,2,2016,193,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666586,SRX1844991,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115427,W198,198,wound,wound,swab,8,2,2016,217,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666587,SRX1844992,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115428,W198,198,wound,wound,swab,9,2,2016,79,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666588,SRX1844993,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115429,W198,198,wound,wound,swab,10,2,2016,149,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666589,SRX1844994,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115430,W198,198,wound,wound,swab,11,2,2016,85,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666590,SRX1844995,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115431,W198,198,wound,wound,swab,12,2,2016,315,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666591,SRX1844996,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115179,W199,199,wound,wound,swab,0,2,2016,203,5.9,NA,TCC,No,NA,NA,Loesche2017,SRR3666592,SRX1844997,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115483,W199,199,wound,wound,swab,1,2,2016,146,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666593,SRX1844998,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115484,W199,199,wound,wound,swab,2,2,2016,157,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666594,SRX1844999,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115485,W199,199,wound,wound,swab,3,2,2016,149,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666595,SRX1845000,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115486,W199,199,wound,wound,swab,4,2,2016,169,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666596,SRX1845001,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115487,W199,199,wound,wound,swab,5,2,2016,170,0,non-healing,TCC,Yes,NA,NA,Loesche2017,SRR3666597,SRX1845002,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115488,W199,199,wound,wound,swab,6,2,2016,115,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666598,SRX1845003,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115489,W199,199,wound,wound,swab,7,2,2016,73,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666599,SRX1845004,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115490,W199,199,wound,wound,swab,8,2,2016,49,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666600,SRX1845005,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115491,W199,199,wound,wound,swab,9,2,2016,21,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666601,SRX1845006,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115432,W199,199,wound,wound,swab,10,2,2016,1,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666602,SRX1845007,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115433,W199,199,wound,wound,swab,11,2,2016,21,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666603,SRX1845008,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115434,W199,199,wound,wound,swab,12,2,2016,4,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666604,SRX1845009,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115435,W199,199,wound,wound,swab,13,2,2016,2,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666605,SRX1845010,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115180,W200,200,wound,wound,swab,0,2,2016,9,0,NA,TCC,NA,NA,NA,Loesche2017,SRR3666606,SRX1845011,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115181,W201,201,wound,wound,swab,0,2,2016,568,0,NA,TCC,Yes,NA,NA,Loesche2017,SRR3666607,SRX1845012,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115436,W201,201,wound,wound,swab,1,2,2016,517,0,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666608,SRX1845013,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115437,W201,201,wound,wound,swab,2,2,2016,599,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666609,SRX1845014,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115438,W201,201,wound,wound,swab,3,2,2016,544,4.4,healing,TCC,No,NA,NA,Loesche2017,SRR3666610,SRX1845015,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115439,W201,201,wound,wound,swab,5,2,2016,140,2.3,healing,TCC,Yes,NA,NA,Loesche2017,SRR3666612,SRX1845016,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115440,W301,301,wound,wound,swab,0,2,2016,250,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666613,SRX1845017,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115441,W301,301,wound,wound,swab,1,2,2016,21,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666614,SRX1845018,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115442,W302,302,wound,wound,swab,0,2,2016,180,9,NA,TCC,No,NA,NA,Loesche2017,SRR3666615,SRX1845019,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115443,W302,302,wound,wound,swab,1,2,2016,121,3,healing,TCC,No,NA,NA,Loesche2017,SRR3666616,SRX1845020,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115444,W302,302,wound,wound,swab,2,2,2016,51,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666617,SRX1845021,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115445,W304,304,wound,wound,swab,0,2,2016,229,0,NA,TCC,NA,NA,NA,Loesche2017,SRR3666618,SRX1845022,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115446,W304,304,wound,wound,swab,1,2,2016,203,0,healing,TCC,NA,NA,NA,Loesche2017,SRR3666619,SRX1845023,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115447,W304,304,wound,wound,swab,2,2,2016,200,0,healing,TCC,NA,NA,NA,Loesche2017,SRR3666620,SRX1845024,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115448,W304,304,wound,wound,swab,3,2,2016,178,0,healing,TCC,NA,NA,NA,Loesche2017,SRR3666621,SRX1845025,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115449,W304,304,wound,wound,swab,4,2,2016,145,0,healing,TCC,NA,NA,NA,Loesche2017,SRR3666622,SRX1845026,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115450,W304,304,wound,wound,swab,5,2,2016,159,0,non-healing,TCC,NA,NA,NA,Loesche2017,SRR3666623,SRX1845027,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115451,W304,304,wound,wound,swab,6,2,2016,346,2,non-healing,TCC,NA,NA,NA,Loesche2017,SRR3666624,SRX1845028,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115452,W304,304,wound,wound,swab,7,2,2016,160,3,healing,TCC,NA,NA,NA,Loesche2017,SRR3666625,SRX1845029,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115453,W304,304,wound,wound,swab,8,2,2016,159,3,healing,TCC,NA,NA,NA,Loesche2017,SRR3666626,SRX1845030,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115454,W304,304,wound,wound,swab,9,2,2016,211,0,non-healing,TCC,NA,NA,NA,Loesche2017,SRR3666627,SRX1845031,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115455,W304,304,wound,wound,swab,10,2,2016,178,0,healing,TCC,NA,NA,NA,Loesche2017,SRR3666628,SRX1845032,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115183,W305,305,wound,wound,swab,0,2,2016,45,6,NA,TCC,No,NA,NA,Loesche2017,SRR3666629,SRX1845033,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115456,W305,305,wound,wound,swab,1,2,2016,15,4,healing,TCC,No,NA,NA,Loesche2017,SRR3666630,SRX1845034,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115457,W305,305,wound,wound,swab,2,2,2016,6,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666631,SRX1845035,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115184,W307,307,wound,wound,swab,0,2,2016,82,2,NA,TCC,No,NA,NA,Loesche2017,SRR3666632,SRX1845036,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115458,W307,307,wound,wound,swab,1,2,2016,41,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666633,SRX1845037,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115459,W307,307,wound,wound,swab,2,2,2016,21,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666634,SRX1845038,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115460,W307,307,wound,wound,swab,3,2,2016,3,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666635,SRX1845039,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115185,W308,308,wound,wound,swab,0,2,2016,44,4,NA,TCC,No,NA,NA,Loesche2017,SRR3666636,SRX1845040,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115461,W308,308,wound,wound,swab,1,2,2016,27,2,healing,TCC,No,NA,NA,Loesche2017,SRR3666637,SRX1845041,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115186,W309,309,wound,wound,swab,0,2,2016,35,7,NA,TCC,No,NA,NA,Loesche2017,SRR3666638,SRX1845042,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115462,W309,309,wound,wound,swab,1,2,2016,72,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666639,SRX1845043,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115463,W309,309,wound,wound,swab,2,2,2016,14,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666640,SRX1845044,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115187,W310,310,wound,wound,swab,0,2,2016,139,0,NA,TCC,No,NA,NA,Loesche2017,SRR3666641,SRX1845045,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115464,W310,310,wound,wound,swab,1,2,2016,8,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666642,SRX1845046,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115188,W312,312,wound,wound,swab,0,2,2016,160,4,NA,TCC,No,NA,NA,Loesche2017,SRR3666643,SRX1845047,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115465,W312,312,wound,wound,swab,1,2,2016,50,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666644,SRX1845048,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115466,W312,312,wound,wound,swab,2,2,2016,58,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666645,SRX1845049,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115467,W312,312,wound,wound,swab,3,2,2016,9,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666646,SRX1845050,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115468,W312,312,wound,wound,swab,4,2,2016,13,0,non-healing,TCC,No,NA,NA,Loesche2017,SRR3666647,SRX1845051,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+115469,W312,312,wound,wound,swab,5,2,2016,5,0,healing,TCC,No,NA,NA,Loesche2017,SRR3666648,SRX1845052,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,Yes,27F and 534R
+S_D1,DFI_1,D1,wound,wound,tissue,0,NA,2015,70,0,NA,NA,No,NA,NA,Malone2017a,D1,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D2,DFI_2,D2,wound,wound,tissue,0,NA,2015,660,10,NA,NA,No,NA,NA,Malone2017a,D2,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D3,DFI_3,D3,wound,wound,tissue,0,NA,2015,210,20,NA,NA,No,NA,NA,Malone2017a,D3,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D4,DFI_4,D4,wound,wound,tissue,0,NA,2015,198,10,NA,NA,No,NA,NA,Malone2017a,D4,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D5,DFI_5,D5,wound,wound,tissue,0,NA,2015,435,10,NA,NA,No,NA,NA,Malone2017a,D5,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D6,DFI_6,D6,wound,wound,tissue,0,NA,2015,450,5,NA,NA,No,NA,NA,Malone2017a,D6,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D7,DFI_7,D7,wound,wound,tissue,0,NA,2015,120,20,NA,NA,No,NA,NA,Malone2017a,D7,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D8,DFI_8,D8,wound,wound,tissue,0,NA,2015,400,0,NA,NA,No,NA,NA,Malone2017a,D8,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D9,DFI_9,D9,wound,wound,tissue,0,NA,2015,100,30,NA,NA,No,NA,NA,Malone2017a,D9,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D10,DFI_10,D10,wound,wound,tissue,0,NA,2015,200,10,NA,NA,No,NA,NA,Malone2017a,D10,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D11,DFI_11,D11,wound,wound,tissue,0,NA,2015,1500,20,NA,NA,No,NA,NA,Malone2017a,D11,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D12,DFI_12,D12,wound,wound,tissue,0,NA,2015,165,2,NA,NA,No,NA,NA,Malone2017a,D12,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D13,DFI_13,D13,wound,wound,tissue,0,NA,2015,400,5,NA,NA,No,NA,NA,Malone2017a,D13,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D14,DFI_14,D14,wound,wound,tissue,0,NA,2015,100,20,NA,NA,No,NA,NA,Malone2017a,D14,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D15,DFI_15,D15,wound,wound,tissue,0,NA,2015,100,10,NA,NA,No,NA,NA,Malone2017a,D15,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D16,DFI_16,D16,wound,wound,tissue,0,NA,2015,100,20,NA,NA,No,NA,NA,Malone2017a,D16,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D17,DFI_17,D17,wound,wound,tissue,0,NA,2015,1200,30,NA,NA,No,NA,NA,Malone2017a,D17,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D18,DFI_18,D18,wound,wound,tissue,0,NA,2015,800,5,NA,NA,No,NA,NA,Malone2017a,D18,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D19,DFI_19,D19,wound,wound,tissue,0,NA,2015,200,10,NA,NA,No,NA,NA,Malone2017a,D19,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D20,DFI_20,D20,wound,wound,tissue,0,NA,2015,300,30,NA,NA,No,NA,NA,Malone2017a,D20,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D21,DFI_21,D21,wound,wound,tissue,0,NA,2015,900,40,NA,NA,No,NA,NA,Malone2017a,D21,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D22,DFI_22,D22,wound,wound,tissue,0,NA,2015,300,20,NA,NA,No,NA,NA,Malone2017a,D22,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D23,DFI_23,D23,wound,wound,tissue,0,NA,2015,300,30,NA,NA,No,NA,NA,Malone2017a,D23,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D24,DFI_24,D24,wound,wound,tissue,0,NA,2015,200,40,NA,NA,No,NA,NA,Malone2017a,D24,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D25,DFI_25,D25,wound,wound,tissue,0,NA,2015,100,0,NA,NA,No,NA,NA,Malone2017a,D25,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D26,DFI_26,D26,wound,wound,tissue,0,NA,2015,1600,0,NA,NA,No,NA,NA,Malone2017a,D26,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D27,DFI_27,D27,wound,wound,tissue,0,NA,2015,400,5,NA,NA,No,NA,NA,Malone2017a,D27,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D28,DFI_28,D28,wound,wound,tissue,0,NA,2015,100,10,NA,NA,No,NA,NA,Malone2017a,D28,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D29,DFI_29,D29,wound,wound,tissue,0,NA,2015,2400,10,NA,NA,No,NA,NA,Malone2017a,D29,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D30,DFI_30,D30,wound,wound,tissue,0,NA,2015,100,20,NA,NA,No,NA,NA,Malone2017a,D30,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D31,DFI_31,D31,wound,wound,tissue,0,NA,2015,1500,0,NA,NA,No,NA,NA,Malone2017a,D31,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D32,DFI_32,D32,wound,wound,tissue,0,NA,2015,400,14,NA,NA,No,NA,NA,Malone2017a,D32,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D33,DFI_33,D33,wound,wound,tissue,0,NA,2015,3000,10,NA,NA,No,NA,NA,Malone2017a,D33,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D34,DFI_34,D34,wound,wound,tissue,0,NA,2015,4000,20,NA,NA,No,NA,NA,Malone2017a,D34,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D35,DFI_35,D35,wound,wound,tissue,0,NA,2015,1800,0,NA,NA,No,NA,NA,Malone2017a,D35,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D36,DFI_36,D36,wound,wound,tissue,0,NA,2015,500,10,NA,NA,No,NA,NA,Malone2017a,D36,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D37,DFI_37,D37,wound,wound,tissue,0,NA,2015,1200,30,NA,NA,No,NA,NA,Malone2017a,D37,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D38,DFI_38,D38,wound,wound,tissue,0,NA,2015,900,0,NA,NA,No,NA,NA,Malone2017a,D38,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D39,DFI_39,D39,wound,wound,tissue,0,NA,2015,625,20,NA,NA,No,NA,NA,Malone2017a,D39,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+S_D40,DFI_40,D40,wound,wound,tissue,0,NA,2015,840,20,NA,NA,No,NA,NA,Malone2017a,D40,NA,16S amplicon,V4,2*301,Illumina,MiSeq,Paired,No,NA
+LD31_0,DFU_LD31,LD31,wound,wound,tissue,0,1,2015,1650,0,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D31_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD32_0,DFU_LD32,LD32,wound,wound,tissue,0,1,2015,150,10,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D32_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD33_0,DFU_LD33,LD33,wound,wound,tissue,0,1,2015,1500,20,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D33_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD34_0,DFU_LD34,LD34,wound,wound,tissue,0,1,2015,558,15,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D34_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD35_0,DFU_LD35,LD35,wound,wound,tissue,0,1,2015,1125,10,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D35_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD36_0,DFU_LD36,LD36,wound,wound,tissue,0,1,2015,1435,5,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D36_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD37_0,DFU_LD37,LD37,wound,wound,tissue,0,1,2015,50,30,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D37_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD38_0,DFU_LD38,LD38,wound,wound,tissue,0,1,2015,2000,0,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D38_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD39_0,DFU_LD39,LD39,wound,wound,tissue,0,1,2015,400,10,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D39_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD40_0,DFU_LD40,LD40,wound,wound,tissue,0,1,2015,3000,5,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D40_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD41_0,DFU_LD41,LD41,wound,wound,tissue,0,1,2015,600,5,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D41_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD42_0,DFU_LD42,LD42,wound,wound,tissue,0,1,2015,400,5,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D42_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD43_0,DFU_LD43,LD43,wound,wound,tissue,0,1,2015,1000,5,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D43_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD44_0,DFU_LD44,LD44,wound,wound,tissue,0,1,2015,400,0,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D44_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD45_0,DFU_LD45,LD45,wound,wound,tissue,0,1,2015,1000,40,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D45_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD91_0,DFU_LD91,LD91,wound,wound,tissue,0,1,2015,2400,0,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D91_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD92_0,DFU_LD92,LD92,wound,wound,tissue,0,1,2015,1400,10,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D92_B,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD31_1,DFU_LD31,LD31,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D31_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD32_1,DFU_LD32,LD32,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D32_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD33_1,DFU_LD33,LD33,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D33_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD34_1,DFU_LD34,LD34,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D34_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD35_1,DFU_LD35,LD35,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D35_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD36_1,DFU_LD36,LD36,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D36_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD37_1,DFU_LD37,LD37,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D37_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD38_1,DFU_LD38,LD38,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D38_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD39_1,DFU_LD39,LD39,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D39_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD40_1,DFU_LD40,LD40,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D40_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD41_1,DFU_LD41,LD41,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D41_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD42_1,DFU_LD42,LD42,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D42_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD43_1,DFU_LD43,LD43,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D43_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD44_1,DFU_LD44,LD44,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D44_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD45_1,DFU_LD45,LD45,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D45_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD91_1,DFU_LD91,LD91,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D91_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+LD92_1,DFU_LD92,LD92,wound,wound,tissue,1,1,2015,NA,NA,NA,"Iodosorb, Smith & Nephew",No,NA,NA,Malone2017b,D92_A,NA,16S amplicon,V4,2*300,Illumina,MiSeq,Paired,No,NA
+DFW1_S,DFW1,S1,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983295,ERX1826328,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW2_S,DFW2,S2,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983296,ERX1826327,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW3_S,DFW3,S3,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983297,ERX1826326,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW4_S,DFW4,S4,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983298,ERX1826325,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW5_S,DFW5,S5,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983299,ERX1826324,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW6_S,DFW6,S6,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983300,ERX1826323,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW7_S,DFW7,S7,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983301,ERX1826322,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW8_S,DFW8,S8,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983302,ERX1826321,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW9_S,DFW9,S9,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983303,ERX1826320,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW10_S,DFW10,S10,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983304,ERX1826319,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW11_S,DFW11,S11,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983305,ERX1826318,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW12_S,DFW12,S12,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983306,ERX1826317,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW13_S,DFW13,S13,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983307,ERX1826316,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW14_S,DFW14,S14,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983308,ERX1826315,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW15_S,DFW15,S15,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983309,ERX1826314,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW16_S,DFW16,S16,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983310,ERX1826313,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW17_S,DFW17,S17,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983311,ERX1826312,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW18_S,DFW18,S18,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983312,ERX1826311,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW20_S,DFW20,S20,normal skin,contralateral,swab,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983313,ERX1826310,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW1_T,DFW1,S1,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983314,ERX1826309,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW2_T,DFW2,S2,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983315,ERX1826308,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW3_T,DFW3,S3,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983316,ERX1826307,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW4_T,DFW4,S4,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983317,ERX1826306,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW5_T,DFW5,S5,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983318,ERX1826305,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW6_T,DFW6,S6,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983319,ERX1826304,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW7_T,DFW7,S7,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983320,ERX1826303,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW8_T,DFW8,S8,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983321,ERX1826302,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW9_T,DFW9,S9,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983322,ERX1826301,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW10_T,DFW10,S10,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983323,ERX1826300,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW11_T,DFW11,S11,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983324,ERX1826299,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW12_T,DFW12,S12,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983325,ERX1826298,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW13_T,DFW13,S13,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983326,ERX1826297,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW14_T,DFW14,S14,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983327,ERX1826296,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW15_T,DFW15,S15,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983328,ERX1826295,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW16_T,DFW16,S16,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983329,ERX1826294,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW17_T,DFW17,S17,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983330,ERX1826293,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW18_T,DFW18,S18,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983331,ERX1826292,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW19_T,DFW19,S19,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983332,ERX1826291,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+DFW20_T,DFW20,S20,wound,wound,tissue,0,NA,2018,NA,NA,NA,NA,No,NA,NA,Park2019,ERR2983333,ERX1826290,16S amplicon,V1-V3,2*300,Illumina,MiSeq,Paired,No,NA
+H-01037-v01-S68-L001,DFU_1037,1037,wound,wound,swab,1,2,2018,70,NA,NA,Softpore,No,NA,NA,Sloan2019,ERR2796542,ERX2805561,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01037-v02-S22-L001,DFU_1037,1037,wound,wound,swab,2,2,2018,43,NA,healing,Softpore,No,NA,NA,Sloan2019,ERR2796543,ERX2805562,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v01-S30-L001,DFU_1038,1038,wound,wound,swab,1,2,2018,261,NA,NA,NA,No,NA,NA,Sloan2019,ERR2796544,ERX2805563,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v03-S1-L001,DFU_1038,1038,wound,wound,swab,3,2,2018,80,NA,healing,Gauze,No,NA,NA,Sloan2019,ERR2796545,ERX2805564,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v04-S2-L001,DFU_1038,1038,wound,wound,swab,4,2,2018,109,NA,non-healing,Softpore,No,NA,NA,Sloan2019,ERR2796546,ERX2805565,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v05-S3-L001,DFU_1038,1038,wound,wound,swab,5,2,2018,104,NA,healing,Softpore,No,NA,NA,Sloan2019,ERR2796547,ERX2805566,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v06-S69-L001,DFU_1038,1038,wound,wound,swab,6,2,2018,100,NA,healing,Dry dressing and bandage,No,NA,NA,Sloan2019,ERR2796548,ERX2805567,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v07-S38-L001,DFU_1038,1038,wound,wound,swab,7,2,2018,52,NA,healing,Softpore,No,NA,NA,Sloan2019,ERR2796549,ERX2805568,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v09-S45-L001,DFU_1038,1038,wound,wound,swab,9,2,2018,40,NA,healing,Softpore,No,NA,NA,Sloan2019,ERR2796550,ERX2805569,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v10-S52-L001,DFU_1038,1038,wound,wound,swab,10,2,2018,28,NA,healing,Softpore,No,NA,NA,Sloan2019,ERR2796551,ERX2805570,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v11-S59-L001,DFU_1038,1038,wound,wound,swab,11,2,2018,30,NA,non-healing,Softpore,No,NA,NA,Sloan2019,ERR2796552,ERX2805571,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v12-S7-L001,DFU_1038,1038,wound,wound,swab,12,2,2018,10,NA,healing,Softpore,No,NA,NA,Sloan2019,ERR2796553,ERX2805572,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01038-v13-S70-L001,DFU_1038,1038,wound,wound,swab,13,2,2018,7,NA,healing,Softpore,No,NA,NA,Sloan2019,ERR2796554,ERX2805573,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v02-S71-L001,DFU_1039,1039,wound,wound,swab,2,2,2018,555,NA,NA,Softban and bandage,Yes,NA,ciprofloxacin_amoxicillin,Sloan2019,ERR2796555,ERX2805574,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v03-S72-L001,DFU_1039,1039,wound,wound,swab,3,2,2018,496,NA,healing,"Gause, softban and bandage",Yes,NA,flucloxacillin,Sloan2019,ERR2796556,ERX2805575,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v04-S73-L001,DFU_1039,1039,wound,wound,swab,4,2,2018,613,NA,non-healing,Kerramax,Yes,NA,flucloxacillin,Sloan2019,ERR2796557,ERX2805576,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v05-S74-L001,DFU_1039,1039,wound,wound,swab,5,2,2018,625,NA,non-healing,NA,Yes,NA,flucloxacillin,Sloan2019,ERR2796558,ERX2805577,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v06-S4-L001,DFU_1039,1039,wound,wound,swab,6,2,2018,463,NA,healing,Padding,Yes,NA,flucloxacillin,Sloan2019,ERR2796559,ERX2805578,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v07-S75-L001,DFU_1039,1039,wound,wound,swab,7,2,2018,537,NA,non-healing,Padding,No,NA,NA,Sloan2019,ERR2796560,ERX2805579,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v08-S76-L001,DFU_1039,1039,wound,wound,swab,8,2,2018,447,NA,healing,"Sorbsan, gauze and padding",No,NA,NA,Sloan2019,ERR2796561,ERX2805580,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v09-S77-L001,DFU_1039,1039,wound,wound,swab,9,2,2018,511,NA,non-healing,Gauze,No,NA,NA,Sloan2019,ERR2796562,ERX2805581,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v10-S78-L001,DFU_1039,1039,wound,wound,swab,10,2,2018,435,NA,healing,Sorbsan,No,NA,NA,Sloan2019,ERR2796563,ERX2805582,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v11-S79-L001,DFU_1039,1039,wound,wound,swab,11,2,2018,536,NA,non-healing,Aquafibre,No,NA,NA,Sloan2019,ERR2796564,ERX2805583,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01039-v13-S5-L001,DFU_1039,1039,wound,wound,swab,13,2,2018,349,NA,healing,Zetuvit,Yes,NA,flucloxacillin,Sloan2019,ERR2796565,ERX2805584,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v02-S6-L001,DFU_1040,1040,wound,wound,swab,2,2,2018,NA,NA,NA,Softban and bandage,No,NA,NA,Sloan2019,ERR2796566,ERX2805585,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v03-S80-L001,DFU_1040,1040,wound,wound,swab,3,2,2018,72,NA,NA,NA,Yes,NA,co-amoxiclav,Sloan2019,ERR2796567,ERX2805586,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v04-S1-L001,DFU_1040,1040,wound,wound,swab,4,2,2018,114,NA,non-healing,Softpore,Yes,NA,co-amoxiclav,Sloan2019,ERR2796568,ERX2805587,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v05-S9-L001,DFU_1040,1040,wound,wound,swab,5,2,2018,68,NA,healing,Dry dressing and padding,No,NA,NA,Sloan2019,ERR2796569,ERX2805588,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v06-S81-L001,DFU_1040,1040,wound,wound,swab,6,2,2018,67,NA,healing,Padding,No,NA,NA,Sloan2019,ERR2796570,ERX2805589,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v07-S17-L001,DFU_1040,1040,wound,wound,swab,7,2,2018,129,NA,non-healing,Gauze and bandage,No,NA,NA,Sloan2019,ERR2796571,ERX2805590,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v08-S25-L001,DFU_1040,1040,wound,wound,swab,8,2,2018,59,NA,healing,Gause and padding,Yes,NA,co-amoxiclav,Sloan2019,ERR2796572,ERX2805591,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v09-S33-L001,DFU_1040,1040,wound,wound,swab,9,2,2018,48,NA,healing,Sterile gauze,No,NA,NA,Sloan2019,ERR2796573,ERX2805592,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v11-S7-L001,DFU_1040,1040,wound,wound,swab,11,2,2018,41,NA,healing,NA,No,NA,NA,Sloan2019,ERR2796574,ERX2805593,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v12-S131-L001,DFU_1040,1040,wound,wound,swab,12,2,2018,27,NA,healing,Atrauman,No,NA,NA,Sloan2019,ERR2796575,ERX2805594,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01040-v13-S132-L001,DFU_1040,1040,wound,wound,swab,13,2,2018,22,NA,healing,NA,No,NA,NA,Sloan2019,ERR2796576,ERX2805595,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01041-v01-S133-L001,DFU_1041,1041,wound,wound,swab,1,2,2018,1203,NA,NA,Inodine and dry dressing,Yes,NA,co-amoxiclav,Sloan2019,ERR2796577,ERX2805596,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01041-v02-S134-L001,DFU_1041,1041,wound,wound,swab,2,2,2018,925,NA,healing,Inodine gauze and padding,Yes,NA,co-amoxiclav,Sloan2019,ERR2796578,ERX2805597,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01041-v04-S135-L001,DFU_1041,1041,wound,wound,swab,4,2,2018,679,NA,healing,Softpore,No,NA,NA,Sloan2019,ERR2796579,ERX2805598,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01041-v05-S136-L001,DFU_1041,1041,wound,wound,swab,5,2,2018,700,NA,non-healing,NA,No,NA,NA,Sloan2019,ERR2796580,ERX2805599,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01041-v06-S137-L001,DFU_1041,1041,wound,wound,swab,6,2,2018,587,NA,healing,Sorbsan,No,NA,NA,Sloan2019,ERR2796581,ERX2805600,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01041-v10-S138-L001,DFU_1041,1041,wound,wound,swab,10,2,2018,664,NA,non-healing,NA,Yes,NA,co-amoxiclav,Sloan2019,ERR2796582,ERX2805601,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01041-v11-S139-L001,DFU_1041,1041,wound,wound,swab,11,2,2018,579,NA,healing,Aquafibre,Yes,NA,co-amoxiclav,Sloan2019,ERR2796583,ERX2805602,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01041-v12-S140-L001,DFU_1041,1041,wound,wound,swab,12,2,2018,535,NA,healing,NA,No,NA,NA,Sloan2019,ERR2796584,ERX2805603,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-01041-v13-S141-L001,DFU_1041,1041,wound,wound,swab,13,2,2018,439,NA,healing,Gauze,No,NA,NA,Sloan2019,ERR2796585,ERX2805604,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v01-S142-L001,DFU_5029,5029,wound,wound,swab,1,2,2018,50,NA,NA,NA,No,NA,NA,Sloan2019,ERR2796586,ERX2805605,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v02-S8-L001,DFU_5029,5029,wound,wound,swab,2,2,2018,30,NA,healing,NA,Yes,NA,amoxicillin,Sloan2019,ERR2796587,ERX2805606,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v03-S9-L001,DFU_5029,5029,wound,wound,swab,3,2,2018,40,NA,non-healing,Aquacel,Yes,NA,amoxicillin,Sloan2019,ERR2796588,ERX2805607,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v04-S10-L001,DFU_5029,5029,wound,wound,swab,4,2,2018,24,NA,healing,Aquacel,Yes,NA,amoxicillin,Sloan2019,ERR2796589,ERX2805608,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v05-S11-L001,DFU_5029,5029,wound,wound,swab,5,2,2018,14,NA,healing,NA,Yes,NA,amoxicillin,Sloan2019,ERR2796590,ERX2805609,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v06-S12-L001,DFU_5029,5029,wound,wound,swab,6,2,2018,10,NA,healing,NA,Yes,NA,amoxicillin,Sloan2019,ERR2796591,ERX2805610,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v07-S13-L001,DFU_5029,5029,wound,wound,swab,7,2,2018,7,NA,healing,NA,Yes,NA,amoxicillin,Sloan2019,ERR2796592,ERX2805611,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v08-S14-L001,DFU_5029,5029,wound,wound,swab,8,2,2018,10,NA,non-healing,Aquacel,Yes,NA,amoxicillin,Sloan2019,ERR2796593,ERX2805612,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v09-S5-L001,DFU_5029,5029,wound,wound,swab,9,2,2018,77,NA,non-healing,Aquacel,Yes,NA,amoxicillin,Sloan2019,ERR2796594,ERX2805613,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v10-S13-L001,DFU_5029,5029,wound,wound,swab,10,2,2018,13,NA,healing,NA,Yes,NA,amoxicillin,Sloan2019,ERR2796595,ERX2805614,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v11-S21-L001,DFU_5029,5029,wound,wound,swab,11,2,2018,6,NA,healing,Cosmopore,Yes,NA,amoxicillin,Sloan2019,ERR2796596,ERX2805615,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v12-S29-L001,DFU_5029,5029,wound,wound,swab,12,2,2018,9,NA,non-healing,Aquacel,Yes,NA,amoxicillin,Sloan2019,ERR2796597,ERX2805616,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05029-v13-S37-L001,DFU_5029,5029,wound,wound,swab,13,2,2018,4,NA,healing,NA,Yes,NA,amoxicillin,Sloan2019,ERR2796598,ERX2805617,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v01-S143-L001,DFU_5030,5030,wound,wound,swab,1,2,2018,251,NA,NA,Aquacel,No,NA,NA,Sloan2019,ERR2796599,ERX2805618,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v02-S144-L001,DFU_5030,5030,wound,wound,swab,2,2,2018,169,NA,healing,Aquacel,No,NA,NA,Sloan2019,ERR2796600,ERX2805619,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v05-S145-L001,DFU_5030,5030,wound,wound,swab,5,2,2018,70,NA,healing,Aquacel,No,NA,NA,Sloan2019,ERR2796601,ERX2805620,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v06-S146-L001,DFU_5030,5030,wound,wound,swab,6,2,2018,71,NA,non-healing,Aquacel,No,NA,NA,Sloan2019,ERR2796602,ERX2805621,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v07-S147-L001,DFU_5030,5030,wound,wound,swab,7,2,2018,62,NA,healing,Aquacel,No,NA,NA,Sloan2019,ERR2796603,ERX2805622,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v09-S148-L001,DFU_5030,5030,wound,wound,swab,9,2,2018,57,NA,healing,Aquacel,No,NA,NA,Sloan2019,ERR2796604,ERX2805623,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v10-S149-L001,DFU_5030,5030,wound,wound,swab,10,2,2018,561,NA,non-healing,NA,No,NA,NA,Sloan2019,ERR2796605,ERX2805624,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v11-S150-L001,DFU_5030,5030,wound,wound,swab,11,2,2018,380,NA,healing,Inadine,No,NA,NA,Sloan2019,ERR2796606,ERX2805625,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v12-S151-L001,DFU_5030,5030,wound,wound,swab,12,2,2018,429,NA,non-healing,Inadine,No,NA,NA,Sloan2019,ERR2796607,ERX2805626,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05030-v13-S152-L001,DFU_5030,5030,wound,wound,swab,13,2,2018,NA,NA,NA,Aquacel,No,NA,NA,Sloan2019,ERR2796608,ERX2805627,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05031-v01-S15-L001,DFU_5031,5031,wound,wound,swab,1,2,2018,NA,NA,NA,Aquacel,No,NA,NA,Sloan2019,ERR2796609,ERX2805628,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05031-v02-S44-L001,DFU_5031,5031,wound,wound,swab,2,2,2018,119,NA,NA,Aquacel,No,NA,NA,Sloan2019,ERR2796610,ERX2805629,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05031-v03-S51-L001,DFU_5031,5031,wound,wound,swab,3,2,2018,64,NA,healing,Aquacel,No,NA,NA,Sloan2019,ERR2796611,ERX2805630,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05031-v05-S16-L001,DFU_5031,5031,wound,wound,swab,5,2,2018,45,NA,healing,Aquacel,No,NA,NA,Sloan2019,ERR2796612,ERX2805631,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05031-v06-S17-L001,DFU_5031,5031,wound,wound,swab,6,2,2018,16,NA,healing,Aquacel,No,NA,NA,Sloan2019,ERR2796613,ERX2805632,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05031-v07-S18-L001,DFU_5031,5031,wound,wound,swab,7,2,2018,19,NA,non-healing,Aquacel,No,NA,NA,Sloan2019,ERR2796614,ERX2805633,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05031-v09-S58-L001,DFU_5031,5031,wound,wound,swab,9,2,2018,52,NA,non-healing,NA,No,NA,NA,Sloan2019,ERR2796615,ERX2805634,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05031-v10-S15-L001,DFU_5031,5031,wound,wound,swab,10,2,2018,17,NA,healing,NA,No,NA,NA,Sloan2019,ERR2796616,ERX2805635,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-05031-v13-S19-L001,DFU_5031,5031,wound,wound,swab,13,2,2018,331,NA,non-healing,NA,No,NA,NA,Sloan2019,ERR2796617,ERX2805636,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v01-S20-L001,DFU_7024,7024,wound,wound,swab,1,2,2018,1709,NA,NA,Actiform cool,No,NA,NA,Sloan2019,ERR2796618,ERX2805637,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v02-S21-L001,DFU_7024,7024,wound,wound,swab,2,2,2018,1501,NA,healing,Actiform cool,No,NA,NA,Sloan2019,ERR2796619,ERX2805638,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v03-S22-L001,DFU_7024,7024,wound,wound,swab,3,2,2018,1805,NA,non-healing,Urgoclean,Yes,NA,flucloxacillin_metronidazole,Sloan2019,ERR2796620,ERX2805639,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v04-S23-L001,DFU_7024,7024,wound,wound,swab,4,2,2018,1629,NA,healing,Actiform cool,Yes,NA,flucloxacillin_metronidazole,Sloan2019,ERR2796621,ERX2805640,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v05-S24-L001,DFU_7024,7024,wound,wound,swab,5,2,2018,1601,NA,healing,Urgoclean,Yes,NA,flucloxacillin,Sloan2019,ERR2796622,ERX2805641,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v06-S25-L001,DFU_7024,7024,wound,wound,swab,6,2,2018,NA,NA,NA,Urgoclean,Yes,NA,flucloxacillin_metronidazole,Sloan2019,ERR2796623,ERX2805642,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v07-S26-L001,DFU_7024,7024,wound,wound,swab,7,2,2018,1669,NA,NA,Actiform Cool,Yes,NA,co-amoxiclav_gentamicin,Sloan2019,ERR2796624,ERX2805643,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v08-S27-L001,DFU_7024,7024,wound,wound,swab,8,2,2018,1422,NA,healing,Urgoclean,Yes,NA,gentamicin,Sloan2019,ERR2796625,ERX2805644,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v09-S28-L001,DFU_7024,7024,wound,wound,swab,9,2,2018,1346,NA,healing,Urgoclean,Yes,NA,metronidazole_gentamicin,Sloan2019,ERR2796626,ERX2805645,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v10-S29-L001,DFU_7024,7024,wound,wound,swab,10,2,2018,1365,NA,non-healing,Urgoclean,Yes,NA,gentamicin,Sloan2019,ERR2796627,ERX2805646,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v11-S30-L001,DFU_7024,7024,wound,wound,swab,11,2,2018,1145,NA,healing,Sorbsan flat,Yes,NA,gentamicin,Sloan2019,ERR2796628,ERX2805647,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v12-S31-L001,DFU_7024,7024,wound,wound,swab,12,2,2018,1164,NA,non-healing,Urgoclean,No,NA,NA,Sloan2019,ERR2796629,ERX2805648,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07024-v13-S32-L001,DFU_7024,7024,wound,wound,swab,13,2,2018,1129,NA,healing,Aquafibre,No,NA,NA,Sloan2019,ERR2796630,ERX2805649,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07025-v01-S33-L001,DFU_7025,7025,wound,wound,swab,1,2,2018,697,NA,NA,Sorbsan flat,No,NA,NA,Sloan2019,ERR2796631,ERX2805650,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07025-v02-S34-L001,DFU_7025,7025,wound,wound,swab,2,2,2018,585,NA,healing,Aquafibre,No,NA,NA,Sloan2019,ERR2796632,ERX2805651,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07025-v03-S35-L001,DFU_7025,7025,wound,wound,swab,3,2,2018,440,NA,healing,Aquafibre,No,NA,NA,Sloan2019,ERR2796633,ERX2805652,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07025-v04-S36-L001,DFU_7025,7025,wound,wound,swab,4,2,2018,163,NA,healing,Mepilex,No,NA,NA,Sloan2019,ERR2796634,ERX2805653,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-07025-v05-S37-L001,DFU_7025,7025,wound,wound,swab,5,2,2018,46,NA,healing,Mepilex,No,NA,NA,Sloan2019,ERR2796635,ERX2805654,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09037-v02-S38-L001,DFU_9037,9037,wound,wound,swab,2,2,2018,875,NA,NA,Gauze,No,NA,NA,Sloan2019,ERR2796636,ERX2805655,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09037-v03-S39-L001,DFU_9037,9037,wound,wound,swab,3,2,2018,703,NA,healing,Ultra and gauze,No,NA,NA,Sloan2019,ERR2796637,ERX2805656,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09037-v04-S40-L001,DFU_9037,9037,wound,wound,swab,4,2,2018,392,NA,healing,Ultra and gauze,No,NA,NA,Sloan2019,ERR2796638,ERX2805657,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09037-v05-S41-L001,DFU_9037,9037,wound,wound,swab,5,2,2018,615,NA,non-healing,Tegaderm Adhesive,No,NA,NA,Sloan2019,ERR2796639,ERX2805658,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09037-v06-S42-L001,DFU_9037,9037,wound,wound,swab,6,2,2018,499,NA,healing,Tegaderm Adhesive,No,NA,NA,Sloan2019,ERR2796640,ERX2805659,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09037-v07-S43-L001,DFU_9037,9037,wound,wound,swab,7,2,2018,379,NA,healing,Gauze,No,NA,NA,Sloan2019,ERR2796641,ERX2805660,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09037-v08-S44-L001,DFU_9037,9037,wound,wound,swab,8,2,2018,287,NA,healing,Aquacel and gauze,No,NA,NA,Sloan2019,ERR2796642,ERX2805661,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09037-v09-S45-L001,DFU_9037,9037,wound,wound,swab,9,2,2018,283,NA,healing,Aquacel,No,NA,NA,Sloan2019,ERR2796643,ERX2805662,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09037-v10-S46-L001,DFU_9037,9037,wound,wound,swab,10,2,2018,309,NA,non-healing,Aquacel,No,NA,NA,Sloan2019,ERR2796644,ERX2805663,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v01-S82-L001,DFU_9038,9038,wound,wound,swab,1,2,2018,19,NA,NA,Ultra,No,NA,NA,Sloan2019,ERR2796645,ERX2805664,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v02-S47-L001,DFU_9038,9038,wound,wound,swab,2,2,2018,21,NA,non-healing,Gauze,No,NA,NA,Sloan2019,ERR2796646,ERX2805665,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v04-S23-L001,DFU_9038,9038,wound,wound,swab,4,2,2018,11,NA,healing,Gauze,No,NA,NA,Sloan2019,ERR2796647,ERX2805666,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v05-S83-L001,DFU_9038,9038,wound,wound,swab,5,2,2018,12,NA,non-healing,Gauze,No,NA,NA,Sloan2019,ERR2796648,ERX2805667,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v06-S84-L001,DFU_9038,9038,wound,wound,swab,6,2,2018,27,NA,non-healing,Tegaderm foam,No,NA,NA,Sloan2019,ERR2796649,ERX2805668,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v07-S85-L001,DFU_9038,9038,wound,wound,swab,7,2,2018,28,NA,non-healing,Tegaderm foam,No,NA,NA,Sloan2019,ERR2796650,ERX2805669,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v08-S86-L001,DFU_9038,9038,wound,wound,swab,8,2,2018,26,NA,healing,Alleyvn,No,NA,NA,Sloan2019,ERR2796651,ERX2805670,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v09-S87-L001,DFU_9038,9038,wound,wound,swab,9,2,2018,13,NA,healing,Tegaderm foam,No,NA,NA,Sloan2019,ERR2796652,ERX2805671,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v10-S27-L001,DFU_9038,9038,wound,wound,swab,10,2,2018,11,NA,healing,Tegaderm foam,No,NA,NA,Sloan2019,ERR2796653,ERX2805672,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v11-S35-L001,DFU_9038,9038,wound,wound,swab,11,2,2018,12,NA,non-healing,Tegaderm foam adhesive,No,NA,NA,Sloan2019,ERR2796654,ERX2805673,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v12-S48-L001,DFU_9038,9038,wound,wound,swab,12,2,2018,11,NA,healing,Tegaderm foam adhesive,No,NA,NA,Sloan2019,ERR2796655,ERX2805674,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09038-v13-S49-L001,DFU_9038,9038,wound,wound,swab,13,2,2018,6,NA,healing,Tegaderm foam adhesive,No,NA,NA,Sloan2019,ERR2796656,ERX2805675,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v01-S50-L001,DFU_9039,9039,wound,wound,swab,1,2,2018,109,NA,NA,Cosmopore,No,NA,NA,Sloan2019,ERR2796657,ERX2805676,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v02-S42-L001,DFU_9039,9039,wound,wound,swab,2,2,2018,104,NA,healing,Tegaderm foam adhesive,No,NA,NA,Sloan2019,ERR2796658,ERX2805677,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v03-S51-L001,DFU_9039,9039,wound,wound,swab,3,2,2018,85,NA,healing,Tegaderm foam adhesive,No,NA,NA,Sloan2019,ERR2796659,ERX2805678,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v04-S52-L001,DFU_9039,9039,wound,wound,swab,4,2,2018,56,NA,healing,Gauze,No,NA,NA,Sloan2019,ERR2796660,ERX2805679,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v05-S53-L001,DFU_9039,9039,wound,wound,swab,5,2,2018,48,NA,healing,Tegaderm foam,No,NA,NA,Sloan2019,ERR2796661,ERX2805680,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v06-S54-L001,DFU_9039,9039,wound,wound,swab,6,2,2018,12,NA,healing,Tegaderm foam adhesive,No,NA,NA,Sloan2019,ERR2796662,ERX2805681,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v07-S55-L001,DFU_9039,9039,wound,wound,swab,7,2,2018,9,NA,healing,Tegaderm foam,No,NA,NA,Sloan2019,ERR2796663,ERX2805682,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v08-S56-L001,DFU_9039,9039,wound,wound,swab,8,2,2018,10,NA,non-healing,Tegaderm foam,No,NA,NA,Sloan2019,ERR2796664,ERX2805683,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v10-S18-L001,DFU_9039,9039,wound,wound,swab,10,2,2018,10,NA,non-healing,Tegaderm foam,No,NA,NA,Sloan2019,ERR2796665,ERX2805684,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09039-v11-S26-L001,DFU_9039,9039,wound,wound,swab,11,2,2018,6,NA,healing,Tegaderm foam adhesive,No,NA,NA,Sloan2019,ERR2796666,ERX2805685,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09040-v02-S34-L001,DFU_9040,9040,wound,wound,swab,2,2,2018,1090,NA,NA,Aquacel,No,NA,NA,Sloan2019,ERR2796667,ERX2805686,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09040-v03-S41-L001,DFU_9040,9040,wound,wound,swab,3,2,2018,770,NA,healing,Aquacel,No,NA,NA,Sloan2019,ERR2796668,ERX2805687,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09040-v04-S48-L001,DFU_9040,9040,wound,wound,swab,4,2,2018,806,NA,non-healing,Aquacel,No,NA,NA,Sloan2019,ERR2796669,ERX2805688,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09040-v08-S55-L001,DFU_9040,9040,wound,wound,swab,8,2,2018,1750,NA,non-healing,Aquacel,Yes,NA,doxycycline,Sloan2019,ERR2796670,ERX2805689,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09040-v09-S3-L001,DFU_9040,9040,wound,wound,swab,9,2,2018,NA,NA,NA,Aquacel,No,NA,NA,Sloan2019,ERR2796671,ERX2805690,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09040-v11-S11-L001,DFU_9040,9040,wound,wound,swab,11,2,2018,4101,NA,NA,Gauze,Yes,NA,ciprofloxacin_metronidazole,Sloan2019,ERR2796672,ERX2805691,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09040-v12-S19-L001,DFU_9040,9040,wound,wound,swab,12,2,2018,3056,NA,healing,Aquacel and gauze,Yes,NA,ciprofloxacin_metronidazole,Sloan2019,ERR2796673,ERX2805692,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-09040-v13-S57-L001,DFU_9040,9040,wound,wound,swab,13,2,2018,2850,NA,healing,Aquacel,Yes,NA,ciprofloxacin_metronidazole,Sloan2019,ERR2796674,ERX2805693,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v01-S58-L001,DFU_10046,10046,wound,wound,swab,1,2,2018,344,NA,NA,Zeruvic,No,NA,NA,Sloan2019,ERR2796675,ERX2805694,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v02-S59-L001,DFU_10046,10046,wound,wound,swab,2,2,2018,718,NA,non-healing,Zetuvit,Yes,NA,co-amoxiclav,Sloan2019,ERR2796676,ERX2805695,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v03-S60-L001,DFU_10046,10046,wound,wound,swab,3,2,2018,1170,NA,non-healing,Zetuvit,Yes,NA,co-amoxiclav,Sloan2019,ERR2796677,ERX2805696,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v04-S61-L001,DFU_10046,10046,wound,wound,swab,4,2,2018,1120,NA,healing,Melolin,Yes,NA,co-amoxiclav,Sloan2019,ERR2796678,ERX2805697,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v05-S62-L001,DFU_10046,10046,wound,wound,swab,5,2,2018,914,NA,healing,Zetuvic,Yes,NA,co-amoxiclav,Sloan2019,ERR2796679,ERX2805698,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v06-S63-L001,DFU_10046,10046,wound,wound,swab,6,2,2018,963,NA,non-healing,Zetuvic,Yes,NA,co-amoxiclav,Sloan2019,ERR2796680,ERX2805699,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v07-S64-L001,DFU_10046,10046,wound,wound,swab,7,2,2018,846,NA,healing,Zetuvic,Yes,NA,co-amoxiclav,Sloan2019,ERR2796681,ERX2805700,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v09-S88-L001,DFU_10046,10046,wound,wound,swab,9,2,2018,600,NA,healing,Melolin,Yes,NA,co-amoxiclav,Sloan2019,ERR2796682,ERX2805701,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v10-S65-L001,DFU_10046,10046,wound,wound,swab,10,2,2018,NA,NA,NA,Zetuvic,No,NA,NA,Sloan2019,ERR2796683,ERX2805702,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v11-S66-L001,DFU_10046,10046,wound,wound,swab,11,2,2018,NA,NA,NA,Zetuvic,No,NA,NA,Sloan2019,ERR2796684,ERX2805703,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v12-S67-L001,DFU_10046,10046,wound,wound,swab,12,2,2018,787,NA,NA,Alevyn,No,NA,NA,Sloan2019,ERR2796685,ERX2805704,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10046-v13-S61-L001,DFU_10046,10046,wound,wound,swab,13,2,2018,NA,NA,NA,Zetuvit,No,NA,NA,Sloan2019,ERR2796686,ERX2805705,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10049-v01-S62-L001,DFU_10049,10049,wound,wound,swab,1,2,2018,146,NA,NA,Alevyn heel cup,No,NA,NA,Sloan2019,ERR2796687,ERX2805706,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10049-v02-S63-L001,DFU_10049,10049,wound,wound,swab,2,2,2018,92,NA,healing,Zetuvit,Yes,NA,co-amoxiclav,Sloan2019,ERR2796688,ERX2805707,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10049-v03-S64-L001,DFU_10049,10049,wound,wound,swab,3,2,2018,95,NA,non-healing,Zetuvic,Yes,NA,co-amoxiclav,Sloan2019,ERR2796689,ERX2805708,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10049-v04-S65-L001,DFU_10049,10049,wound,wound,swab,4,2,2018,110,NA,non-healing,Zetuvit,No,NA,NA,Sloan2019,ERR2796690,ERX2805709,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10049-v05-S66-L001,DFU_10049,10049,wound,wound,swab,5,2,2018,38,NA,healing,Melolin,No,NA,NA,Sloan2019,ERR2796691,ERX2805710,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10049-v07-S67-L001,DFU_10049,10049,wound,wound,swab,7,2,2018,16,NA,healing,Mesorb,No,NA,NA,Sloan2019,ERR2796692,ERX2805711,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10049-v08-S68-L001,DFU_10049,10049,wound,wound,swab,8,2,2018,13,NA,healing,Zetuvic,Yes,NA,co-amoxiclav,Sloan2019,ERR2796693,ERX2805712,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-10049-v09-S69-L001,DFU_10049,10049,wound,wound,swab,9,2,2018,17,NA,non-healing,Alevyn,Yes,NA,co-amoxiclav,Sloan2019,ERR2796694,ERX2805713,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v03-S70-L001,DFU_20014,20014,wound,wound,swab,3,2,2018,254,NA,NA,Inadine,No,NA,NA,Sloan2019,ERR2796695,ERX2805714,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v05-S71-L001,DFU_20014,20014,wound,wound,swab,5,2,2018,203,NA,healing,Inadine,No,NA,NA,Sloan2019,ERR2796696,ERX2805715,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v06-S72-L001,DFU_20014,20014,wound,wound,swab,6,2,2018,321,NA,non-healing,Inadine,Yes,NA,co-amoxiclav,Sloan2019,ERR2796697,ERX2805716,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v07-S31-L001,DFU_20014,20014,wound,wound,swab,7,2,2018,329,NA,non-healing,Actisorb silver,Yes,NA,co-amoxiclav,Sloan2019,ERR2796698,ERX2805717,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v08-S73-L001,DFU_20014,20014,wound,wound,swab,8,2,2018,280,NA,healing,Autrauman ag,Yes,NA,co-amoxiclav,Sloan2019,ERR2796699,ERX2805718,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v09-S74-L001,DFU_20014,20014,wound,wound,swab,9,2,2018,290,NA,non-healing,Inadine,No,NA,NA,Sloan2019,ERR2796700,ERX2805719,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v10-S75-L001,DFU_20014,20014,wound,wound,swab,10,2,2018,165,NA,healing,Actisorb silver,Yes,NA,ciprofloxacin_co-amoxiclav,Sloan2019,ERR2796701,ERX2805720,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v11-S76-L001,DFU_20014,20014,wound,wound,swab,11,2,2018,235,NA,non-healing,Inadine,Yes,NA,ciprofloxacin_co-amoxiclav,Sloan2019,ERR2796702,ERX2805721,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v12-S77-L001,DFU_20014,20014,wound,wound,swab,12,2,2018,112,NA,healing,Actisorb silver,No,NA,NA,Sloan2019,ERR2796703,ERX2805722,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20014-v13-S78-L001,DFU_20014,20014,wound,wound,swab,13,2,2018,74,NA,healing,Actisorb silver,No,NA,NA,Sloan2019,ERR2796704,ERX2805723,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v03-S79-L001,DFU_20015,20015,wound,wound,swab,3,2,2018,57,NA,NA,Atrauman ag,No,NA,NA,Sloan2019,ERR2796705,ERX2805724,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v04-S80-L001,DFU_20015,20015,wound,wound,swab,4,2,2018,53,NA,healing,Inadine,No,NA,NA,Sloan2019,ERR2796706,ERX2805725,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v05-S81-L001,DFU_20015,20015,wound,wound,swab,5,2,2018,55,NA,non-healing,Inadine,No,NA,NA,Sloan2019,ERR2796707,ERX2805726,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v06-S82-L001,DFU_20015,20015,wound,wound,swab,6,2,2018,47,NA,healing,Inadine,No,NA,NA,Sloan2019,ERR2796708,ERX2805727,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v07-S83-L001,DFU_20015,20015,wound,wound,swab,7,2,2018,31,NA,healing,Inadine,No,NA,NA,Sloan2019,ERR2796709,ERX2805728,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v08-S84-L001,DFU_20015,20015,wound,wound,swab,8,2,2018,23,NA,healing,Inadine and gauze,Yes,NA,flucloxacillin,Sloan2019,ERR2796710,ERX2805729,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v09-S40-L001,DFU_20015,20015,wound,wound,swab,9,2,2018,10,NA,healing,Inadine and gauze,Yes,NA,flucloxacillin,Sloan2019,ERR2796711,ERX2805730,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v10-S47-L001,DFU_20015,20015,wound,wound,swab,10,2,2018,10,NA,non-healing,Autrauman Ag,No,NA,NA,Sloan2019,ERR2796712,ERX2805731,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v11-S54-L001,DFU_20015,20015,wound,wound,swab,11,2,2018,5,NA,healing,Inadine,No,NA,NA,Sloan2019,ERR2796713,ERX2805732,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v12-S2-L001,DFU_20015,20015,wound,wound,swab,12,2,2018,5,NA,non-healing,Inadine,No,NA,NA,Sloan2019,ERR2796714,ERX2805733,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-20015-v13-S85-L001,DFU_20015,20015,wound,wound,swab,13,2,2018,9,NA,non-healing,Inadine,No,NA,NA,Sloan2019,ERR2796715,ERX2805734,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-21021-v01-S86-L001,DFU_21021,21021,wound,wound,swab,1,2,2018,107,NA,NA,Mepilex,No,NA,NA,Sloan2019,ERR2796716,ERX2805735,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-21021-v02-S87-L001,DFU_21021,21021,wound,wound,swab,2,2,2018,38,NA,healing,Inadine,No,NA,NA,Sloan2019,ERR2796717,ERX2805736,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-21023-v01-S49-L001,DFU_21023,21023,wound,wound,swab,1,2,2018,61,NA,NA,Allevyn heel,No,NA,NA,Sloan2019,ERR2796718,ERX2805737,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-21023-v02-S10-L001,DFU_21023,21023,wound,wound,swab,2,2,2018,31,NA,healing,Allevyn heel,No,NA,NA,Sloan2019,ERR2796719,ERX2805738,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-23016-v02-S56-L001,DFU_23016,23016,wound,wound,swab,2,2,2018,26,NA,NA,Tegaderm,Yes,NA,flucloxacillin,Sloan2019,ERR2796720,ERX2805739,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-23016-v04-S89-L001,DFU_23016,23016,wound,wound,swab,4,2,2018,7,NA,healing,"Inadine, tegaderm",Yes,NA,flucloxacillin,Sloan2019,ERR2796721,ERX2805740,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-23016-v05-S90-L001,DFU_23016,23016,wound,wound,swab,5,2,2018,5,NA,healing,Inadine,Yes,NA,ciprofloxacin_flucloxacillin_clindamycin,Sloan2019,ERR2796722,ERX2805741,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-31024-v01-S39-L001,DFU_31024,31024,wound,wound,swab,1,2,2018,37,NA,NA,"Inadine, iodoflex",No,NA,NA,Sloan2019,ERR2796723,ERX2805742,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-31024-v02-S91-L001,DFU_31024,31024,wound,wound,swab,2,2,2018,22,NA,healing,Iodoflex,No,NA,NA,Sloan2019,ERR2796724,ERX2805743,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-31024-v03-S92-L001,DFU_31024,31024,wound,wound,swab,3,2,2018,39,NA,non-healing,"Iodflex, foam heel dressing",Yes,NA,co-amoxiclav,Sloan2019,ERR2796725,ERX2805744,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32009-v06-S93-L001,DFU_32009,32009,wound,wound,swab,6,2,2018,26,NA,NA,Mepilex,No,NA,NA,Sloan2019,ERR2796726,ERX2805745,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32009-v07-S94-L001,DFU_32009,32009,wound,wound,swab,7,2,2018,52,NA,non-healing,Mepilex,No,NA,NA,Sloan2019,ERR2796727,ERX2805746,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32009-v09-S95-L001,DFU_32009,32009,wound,wound,swab,9,2,2018,113,NA,non-healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796728,ERX2805747,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32009-v10-S50-L001,DFU_32009,32009,wound,wound,swab,10,2,2018,147,NA,non-healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796729,ERX2805748,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32009-v11-S96-L001,DFU_32009,32009,wound,wound,swab,11,2,2018,118,NA,healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796730,ERX2805749,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v01-S97-L001,DFU_32010,32010,wound,wound,swab,1,2,2018,177,NA,NA,Algivon ,No,NA,NA,Sloan2019,ERR2796731,ERX2805750,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v02-S109-L001,DFU_32010,32010,wound,wound,swab,2,2,2018,747,NA,non-healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796745,ERX2805764,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v03-S98-L001,DFU_32010,32010,wound,wound,swab,3,2,2018,151,NA,healing,Inadine,No,NA,NA,Sloan2019,ERR2796732,ERX2805751,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v04-S99-L001,DFU_32010,32010,wound,wound,swab,4,2,2018,20,NA,healing,Aquafoam hydrogel wound dressing,No,NA,NA,Sloan2019,ERR2796733,ERX2805752,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v05-S100-L001,DFU_32010,32010,wound,wound,swab,5,2,2018,70,NA,non-healing,"Aquaform, allyven",No,NA,NA,Sloan2019,ERR2796734,ERX2805753,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v06-S101-L001,DFU_32010,32010,wound,wound,swab,6,2,2018,59,NA,healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796735,ERX2805754,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v07-S102-L001,DFU_32010,32010,wound,wound,swab,7,2,2018,94,NA,non-healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796736,ERX2805755,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v08-S103-L001,DFU_32010,32010,wound,wound,swab,8,2,2018,87,NA,healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796737,ERX2805756,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v09-S104-L001,DFU_32010,32010,wound,wound,swab,9,2,2018,37,NA,healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796738,ERX2805757,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v10-S105-L001,DFU_32010,32010,wound,wound,swab,10,2,2018,48,NA,non-healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796739,ERX2805758,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v11-S106-L001,DFU_32010,32010,wound,wound,swab,11,2,2018,27,NA,healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796740,ERX2805759,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v12-S107-L001,DFU_32010,32010,wound,wound,swab,12,2,2018,28,NA,non-healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796741,ERX2805760,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32010-v13-S108-L001,DFU_32010,32010,wound,wound,swab,13,2,2018,33,NA,non-healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796742,ERX2805761,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v01-S57-L001,DFU_32011,32011,wound,wound,swab,1,2,2018,27,NA,NA,Aquacel foam,No,NA,NA,Sloan2019,ERR2796743,ERX2805762,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v02B-S110-L001,DFU_32011,32011,wound,wound,swab,2,2,2018,990,NA,non-healing,NA,No,NA,NA,Sloan2019,ERR2796744,ERX2805763,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v03-S111-L001,DFU_32011,32011,wound,wound,swab,3,2,2018,791,NA,healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796746,ERX2805765,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v04-S112-L001,DFU_32011,32011,wound,wound,swab,4,2,2018,233,NA,healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796747,ERX2805766,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v05-S4-L001,DFU_32011,32011,wound,wound,swab,5,2,2018,235,NA,non-healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796748,ERX2805767,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v06-S113-L001,DFU_32011,32011,wound,wound,swab,6,2,2018,200,NA,healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796749,ERX2805768,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v07-S114-L001,DFU_32011,32011,wound,wound,swab,7,2,2018,207,NA,non-healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796750,ERX2805769,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v08-S115-L001,DFU_32011,32011,wound,wound,swab,8,2,2018,74,NA,healing,Aquacel foam,No,NA,NA,Sloan2019,ERR2796751,ERX2805770,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v09-S116-L001,DFU_32011,32011,wound,wound,swab,9,2,2018,8,NA,healing,Mepilex,No,NA,NA,Sloan2019,ERR2796752,ERX2805771,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-32011-v10-S117-L001,DFU_32011,32011,wound,wound,swab,10,2,2018,NA,NA,NA,Mepilex,No,NA,NA,Sloan2019,ERR2796753,ERX2805772,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33026-v01-S6-L001,DFU_33026,33026,wound,wound,swab,1,2,2018,60,NA,NA,Iodoflex,No,NA,NA,Sloan2019,ERR2796754,ERX2805773,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33026-v02-S118-L001,DFU_33026,33026,wound,wound,swab,2,2,2018,36,NA,healing,Biatain,Yes,NA,flucloxacillin,Sloan2019,ERR2796755,ERX2805774,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33026-v03-S46-L001,DFU_33026,33026,wound,wound,swab,3,2,2018,14,NA,healing,Biatain,Yes,NA,flucloxacillin,Sloan2019,ERR2796756,ERX2805775,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33026-v04-S12-L001,DFU_33026,33026,wound,wound,swab,4,2,2018,11,NA,healing,Biatain,Yes,NA,flucloxacillin,Sloan2019,ERR2796757,ERX2805776,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33026-v06-S53-L001,DFU_33026,33026,wound,wound,swab,6,2,2018,NA,NA,NA,Biatain,Yes,NA,flucloxacillin,Sloan2019,ERR2796758,ERX2805777,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v01-S119-L001,DFU_33027,33027,wound,wound,swab,1,2,2018,593,NA,NA,Biatain,No,NA,NA,Sloan2019,ERR2796759,ERX2805778,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v02-S120-L001,DFU_33027,33027,wound,wound,swab,2,2,2018,403,NA,healing,Biatain,No,NA,NA,Sloan2019,ERR2796760,ERX2805779,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v03-S121-L001,DFU_33027,33027,wound,wound,swab,3,2,2018,NA,NA,NA,Biatain,No,NA,NA,Sloan2019,ERR2796761,ERX2805780,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v05-S122-L001,DFU_33027,33027,wound,wound,swab,5,2,2018,1920,NA,NA,"Cutimed sorbact, mepilex",No,NA,NA,Sloan2019,ERR2796762,ERX2805781,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v06-S123-L001,DFU_33027,33027,wound,wound,swab,6,2,2018,1256,NA,healing,Mepilex,No,NA,NA,Sloan2019,ERR2796763,ERX2805782,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v07-S124-L001,DFU_33027,33027,wound,wound,swab,7,2,2018,1637,NA,non-healing,Mepilex,No,NA,NA,Sloan2019,ERR2796764,ERX2805783,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v08-S125-L001,DFU_33027,33027,wound,wound,swab,8,2,2018,942,NA,healing,Mepilex,No,NA,NA,Sloan2019,ERR2796765,ERX2805784,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v09-S126-L001,DFU_33027,33027,wound,wound,swab,9,2,2018,1459,NA,non-healing,Mepilex,No,NA,NA,Sloan2019,ERR2796766,ERX2805785,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v10-S127-L001,DFU_33027,33027,wound,wound,swab,10,2,2018,855,NA,healing,Mepilex,No,NA,NA,Sloan2019,ERR2796767,ERX2805786,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v11-S128-L001,DFU_33027,33027,wound,wound,swab,11,2,2018,594,NA,healing,Mepilex,No,NA,NA,Sloan2019,ERR2796768,ERX2805787,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v12-S129-L001,DFU_33027,33027,wound,wound,swab,12,2,2018,626,NA,non-healing,Mepilex,No,NA,NA,Sloan2019,ERR2796769,ERX2805788,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33027-v13-S130-L001,DFU_33027,33027,wound,wound,swab,13,2,2018,449,NA,healing,Mesorb,No,NA,NA,Sloan2019,ERR2796770,ERX2805789,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33028-v01-S8-L001,DFU_33028,33028,wound,wound,swab,1,2,2018,3206,NA,NA,Allevyn,No,NA,NA,Sloan2019,ERR2796771,ERX2805790,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33028-v02-S16-L001,DFU_33028,33028,wound,wound,swab,2,2,2018,68,NA,healing,Allevyn,No,NA,NA,Sloan2019,ERR2796772,ERX2805791,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33028-v03-S14-L001,DFU_33028,33028,wound,wound,swab,3,2,2018,NA,NA,NA,Allevyn,No,NA,NA,Sloan2019,ERR2796773,ERX2805792,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33028-v04-S20-L001,DFU_33028,33028,wound,wound,swab,4,2,2018,46,NA,NA,Allevyn,No,NA,NA,Sloan2019,ERR2796774,ERX2805793,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33028-v05-S60-L001,DFU_33028,33028,wound,wound,swab,5,2,2018,34,NA,healing,Allevyn,No,NA,NA,Sloan2019,ERR2796775,ERX2805794,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33028-v06-S28-L001,DFU_33028,33028,wound,wound,swab,6,2,2018,26,NA,healing,Allevyn,No,NA,NA,Sloan2019,ERR2796776,ERX2805795,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33028-v07-S36-L001,DFU_33028,33028,wound,wound,swab,7,2,2018,11,NA,healing,Allevyn,No,NA,NA,Sloan2019,ERR2796777,ERX2805796,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA
+H-33028-v13-S43-L001,DFU_33028,33028,wound,wound,swab,13,2,2018,NA,NA,NA,NA,No,NA,NA,Sloan2019,ERR2796778,ERX2805797,16S amplicon,V4,2*250,Illumina,MiSeq,Paired,No,NA

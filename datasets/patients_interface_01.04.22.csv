@@ -1,0 +1,361 @@
+Subject_ID,Original_ID,Project_ID,Geo_Location,Disease,Disease_Duration,Age,Sex,HbA1c,Etiology,Project,nb_of_Visits,Duration_Weeks,Location,Wound_Type,Final_Status,nb_of_Wound_Samples,Has_Contra
+PRJEB17696_P1,P1,PRJEB17696,Australia,T2D,Unknown,Unknown,Unknown,NA,neuropathic,Gardiner2017,1,>=6,foot plantar,DFU,unhealed,12,TRUE
+PRJEB17696_P2,P2,PRJEB17696,Australia,T2D,Unknown,Unknown,Unknown,NA,neuropathic,Gardiner2017,1,>=6,foot plantar,DFU,unhealed,4,TRUE
+PRJEB17696_P3,P5,PRJEB17696,Australia,T2D,Unknown,Unknown,Unknown,NA,neuropathic,Gardiner2017,1,>=6,foot plantar,DFU,unhealed,11,TRUE
+PRJEB17696_P4,P6,PRJEB17696,Australia,T2D,Unknown,Unknown,Unknown,NA,ischemic,Gardiner2017,1,>=6,foot plantar,DFU,healed,8,TRUE
+PRJEB17696_P5,P7,PRJEB17696,Australia,T2D,Unknown,Unknown,Unknown,NA,neuropathic,Gardiner2017,1,>=6,foot plantar,DFU,healed,7,TRUE
+PRJEB17696_P6,P8,PRJEB17696,Australia,T2D,Unknown,Unknown,Unknown,NA,neuropathic,Gardiner2017,1,>=6,foot plantar,DFU,unhealed,10,TRUE
+PRJEB17696_P7,P9,PRJEB17696,Australia,T2D,Unknown,Unknown,Unknown,NA,neuropathic,Gardiner2017,1,>=6,foot plantar,DFU,unhealed,9,TRUE
+PRJEB17696_P8,P10,PRJEB17696,Australia,T2D,Unknown,Unknown,Unknown,NA,neuropathic,Gardiner2017,1,>=6,foot plantar,DFU,unhealed,10,TRUE
+PRJEB17696_C1,CP1,PRJEB17696,Australia,Control,Unknown,Unknown,Unknown,NA,NA,Gardiner2017,1,NA,NA,NA,NA,NA,NA
+PRJEB17696_C2,CP2,PRJEB17696,Australia,Control,Unknown,Unknown,Unknown,NA,NA,Gardiner2017,1,NA,NA,NA,NA,NA,NA
+PRJEB17696_C3,CP3,PRJEB17696,Australia,Control,Unknown,Unknown,Unknown,NA,NA,Gardiner2017,1,NA,NA,NA,NA,NA,NA
+PRJEB17696_C4,CP4,PRJEB17696,Australia,Control,Unknown,Unknown,Unknown,NA,NA,Gardiner2017,1,NA,NA,NA,NA,NA,NA
+PRJEB17696_C5,CP5,PRJEB17696,Australia,Control,Unknown,Unknown,Unknown,NA,NA,Gardiner2017,1,NA,NA,NA,NA,NA,NA
+PRJEB17696_C6,CP6,PRJEB17696,Australia,Control,Unknown,Unknown,Unknown,NA,NA,Gardiner2017,1,NA,NA,NA,NA,NA,NA
+PRJEB17696_C7,CP7,PRJEB17696,Australia,Control,Unknown,Unknown,Unknown,NA,NA,Gardiner2017,1,NA,NA,NA,NA,NA,NA
+PRJEB17696_C8,CP9,PRJEB17696,Australia,Control,Unknown,Unknown,Unknown,NA,NA,Gardiner2017,1,NA,NA,NA,NA,NA,NA
+PRJNA596613_P1,mid92,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P2,mid91,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P3,mid89,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P4,mid87,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P5,mid85,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P6,mid83,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P7,mid80,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P8,mid79,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P9,mid44,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P10,mid37,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P11,mid35,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P12,mid113,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P13,mid12,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P14,mid107,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P15,mid105,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P16,mid102,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P17,mid101,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P18,mid11,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P19,mid78,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P20,mid76,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P21,mid74,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P22,mid73,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P23,mid67,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P24,mid64,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P25,mid34,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P26,mid33,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P27,mid32,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P28,mid4,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P29,mid29,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P30,mid26,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P31,mid24,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P32,mid21,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P33,mid3,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P34,mid99,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P35,mid95,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P36,mid94,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P37,mid61,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P38,mid60,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P39,mid58,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P40,mid56,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P41,mid6,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P42,mid16,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P43,mid122,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P44,mid13,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P45,mid119,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P46,mid117,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P47,mid115,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P48,mid10,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P49,mid90,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P50,mid88,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P51,mid86,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P52,mid82,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P53,mid81,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P54,mid9,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P55,mid49,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P56,mid46,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P57,mid45,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P58,mid42,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P59,mid5,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P60,mid40,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P61,mid38,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P62,mid36,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P63,mid114,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P64,mid112,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P65,mid111,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P66,mid110,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P67,mid108,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P68,mid106,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P69,mid104,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P70,mid103,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P71,mid72,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P72,mid71,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P73,mid70,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P74,mid69,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P75,mid68,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P76,mid30,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P77,mid28,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P78,mid23,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P79,mid100,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P80,mid98,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P81,mid97,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P82,mid96,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P83,mid93,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P84,mid7,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P85,mid59,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P86,mid57,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P87,mid54,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P88,mid52,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P89,mid51,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P90,mid50,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P91,mid19,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P92,mid18,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P93,mid17,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P94,mid15,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P95,mid14,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P96,mid121,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P97,mid120,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P98,mid118,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P99,mid116,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P100,mid1,PRJNA596613,India,diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,DFU,Unknown,1,FALSE
+PRJNA596613_P101,mid47,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P102,mid41,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P103,mid39,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P104,mid109,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P105,mid77,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P106,mid66,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P107,mid27,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P108,mid22,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P109,mid63,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P110,mid55,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P111,mid53,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P112,mid20,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P113,mid84,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P114,mid48,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P115,mid43,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P116,mid75,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P117,mid8,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P118,mid65,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P119,mid31,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P120,mid25,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P121,mid62,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA596613_P122,mid2,PRJNA596613,India,non-diabetic,Unknown,Unknown,Unknown,NA,Unknown,Jnana2020,1,Unknown,lower-extremity area,non-diabetic wound,Unknown,1,FALSE
+PRJNA325156_P1,102,PRJNA325156,United States,T2D,15,58,M,7.2,neuropathic,Loesche2017,1,156,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P2,104,PRJNA325156,United States,T2D,20,66,M,6.5,neuropathic,Loesche2017,1,6,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P3,105,PRJNA325156,United States,T1D,21,31,M,12.7,neuropathic,Loesche2017,1,3,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P4,106,PRJNA325156,United States,T2D,4,46,M,6.8,neuropathic,Loesche2017,1,37,foot plantar,DFU,healed,7,FALSE
+PRJNA325156_P5,107,PRJNA325156,United States,T2D,14,41,M,7,neuropathic,Loesche2017,1,9,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P6,108,PRJNA325156,United States,T2D,12,42,M,7.4,neuropathic,Loesche2017,1,8,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P7,109,PRJNA325156,United States,T2D,30,59,M,6,neuropathic,Loesche2017,1,26,foot plantar,DFU,healed,8,FALSE
+PRJNA325156_P8,110,PRJNA325156,United States,T2D,19,57,F,9.8,neuropathic,Loesche2017,1,15,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P9,111,PRJNA325156,United States,T2D,28,78,F,7.5,neuropathic,Loesche2017,1,9,foot plantar,DFU,healed,4,FALSE
+PRJNA325156_P10,112,PRJNA325156,United States,T2D,20,53,M,6.6,neuropathic,Loesche2017,1,58,foot plantar,DFU,healed,4,FALSE
+PRJNA325156_P11,113,PRJNA325156,United States,T2D,20,64,M,11,neuropathic,Loesche2017,1,11,foot plantar,DFU,unhealed,1,FALSE
+PRJNA325156_P12,114,PRJNA325156,United States,T2D,18,49,M,9.3,neuropathic,Loesche2017,1,3,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P13,115,PRJNA325156,United States,T2D,11,57,M,8.7,neuropathic,Loesche2017,1,7,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P14,116,PRJNA325156,United States,T2D,20,61,M,7.7,neuropathic,Loesche2017,1,54,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P15,117,PRJNA325156,United States,T2D,5,48,F,8.2,neuropathic,Loesche2017,1,18,foot plantar,DFU,healed,6,FALSE
+PRJNA325156_P16,118,PRJNA325156,United States,T2D,9,40,M,9.6,neuropathic,Loesche2017,1,0.5,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P17,119,PRJNA325156,United States,T1D,25,47,M,12.2,neuropathic,Loesche2017,1,56,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P18,120,PRJNA325156,United States,T2D,10,55,M,7.5,neuropathic,Loesche2017,1,166,foot plantar,DFU,healed,5,FALSE
+PRJNA325156_P19,121,PRJNA325156,United States,T2D,15,30,M,10.6,neuropathic,Loesche2017,1,39,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P20,122,PRJNA325156,United States,T2D,9,66,M,7.4,neuropathic,Loesche2017,1,10,foot plantar,DFU,healed,4,FALSE
+PRJNA325156_P21,123,PRJNA325156,United States,T2D,20,74,M,5.8,neuropathic,Loesche2017,1,6.5,foot plantar,DFU,unhealed,7,FALSE
+PRJNA325156_P22,124,PRJNA325156,United States,T2D,10,52,M,6.5,neuropathic,Loesche2017,1,38,foot plantar,DFU,unhealed,10,FALSE
+PRJNA325156_P23,125,PRJNA325156,United States,T2D,15,65,M,10.7,neuropathic,Loesche2017,1,76,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P24,126,PRJNA325156,United States,T1D,16,28,M,8,neuropathic,Loesche2017,1,104,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P25,127,PRJNA325156,United States,T2D,12,63,M,9.5,neuropathic,Loesche2017,1,5,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P26,128,PRJNA325156,United States,T2D,36,71,M,6.9,neuropathic,Loesche2017,1,6,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P27,130,PRJNA325156,United States,T1D,36,49,F,9,neuropathic,Loesche2017,1,47,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P28,131,PRJNA325156,United States,T2D,3,52,M,7.9,neuropathic,Loesche2017,1,26,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P29,132,PRJNA325156,United States,T2D,6,45,M,8.4,neuropathic,Loesche2017,1,70,foot plantar,DFU,unhealed,7,FALSE
+PRJNA325156_P30,136,PRJNA325156,United States,T2D,15,50,M,11.2,neuropathic,Loesche2017,1,24,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P31,137,PRJNA325156,United States,T2D,10,52,M,8.2,neuropathic,Loesche2017,1,78,foot plantar,DFU,unhealed,1,FALSE
+PRJNA325156_P32,138,PRJNA325156,United States,T1D,79,83,M,6.8,neuropathic,Loesche2017,1,62,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P33,139,PRJNA325156,United States,T2D,12,68,M,6.3,neuropathic,Loesche2017,1,35,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P34,140,PRJNA325156,United States,T2D,7,49,F,9.3,neuropathic,Loesche2017,1,4,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P35,141,PRJNA325156,United States,T2D,17,57,M,10.5,neuropathic,Loesche2017,1,19,foot plantar,DFU,unhealed,11,FALSE
+PRJNA325156_P36,142,PRJNA325156,United States,T2D,Unknown,72,M,6.9,neuropathic,Loesche2017,1,52,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P37,143,PRJNA325156,United States,T2D,1,57,M,5.4,neuropathic,Loesche2017,1,42,foot plantar,DFU,healed,7,FALSE
+PRJNA325156_P38,144,PRJNA325156,United States,T2D,10,53,M,15.3,neuropathic,Loesche2017,1,106,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P39,145,PRJNA325156,United States,T2D,0.2,36,F,6.1,neuropathic,Loesche2017,1,68,foot plantar,DFU,healed,5,FALSE
+PRJNA325156_P40,146,PRJNA325156,United States,T2D,16,56,M,7.1,neuropathic,Loesche2017,1,7,foot plantar,DFU,unhealed,2,FALSE
+PRJNA325156_P41,147,PRJNA325156,United States,T2D,17,59,F,8.4,neuropathic,Loesche2017,1,42,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P42,148,PRJNA325156,United States,T2D,9,62,M,7.5,neuropathic,Loesche2017,1,6,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P43,149,PRJNA325156,United States,T1D,3,49,M,5.4,neuropathic,Loesche2017,1,24,foot plantar,DFU,healed,8,FALSE
+PRJNA325156_P44,151,PRJNA325156,United States,T1D,17,41,M,9.8,neuropathic,Loesche2017,1,14,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P45,152,PRJNA325156,United States,T2D,30,64,M,7.8,neuropathic,Loesche2017,1,8,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P46,153,PRJNA325156,United States,T2D,40,68,M,9.4,neuropathic,Loesche2017,1,24.5,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P47,154,PRJNA325156,United States,T2D,25,52,M,9.6,neuropathic,Loesche2017,1,20,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P48,155,PRJNA325156,United States,T1D,25,57,M,9.4,neuropathic,Loesche2017,1,156,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P49,158,PRJNA325156,United States,T2D,5,53,M,11.7,neuropathic,Loesche2017,1,24.5,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P50,159,PRJNA325156,United States,T1D,45,47,F,10.5,neuropathic,Loesche2017,1,15,foot plantar,DFU,healed,5,FALSE
+PRJNA325156_P51,160,PRJNA325156,United States,T2D,14,38,M,7.9,neuropathic,Loesche2017,1,30,foot plantar,DFU,unhealed,4,FALSE
+PRJNA325156_P52,161,PRJNA325156,United States,T2D,12,59,M,6.8,neuropathic,Loesche2017,1,11.5,foot plantar,DFU,unhealed,5,FALSE
+PRJNA325156_P53,162,PRJNA325156,United States,T1D,20,36,F,11,neuropathic,Loesche2017,1,158,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P54,163,PRJNA325156,United States,T2D,1,32,M,6.4,neuropathic,Loesche2017,1,5,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P55,164,PRJNA325156,United States,T2D,30,78,M,8.4,neuropathic,Loesche2017,1,26.5,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P56,165,PRJNA325156,United States,T2D,14,56,M,8.1,neuropathic,Loesche2017,1,2.5,foot plantar,DFU,unhealed,2,FALSE
+PRJNA325156_P57,166,PRJNA325156,United States,T2D,5,59,M,7.4,neuropathic,Loesche2017,1,22,foot plantar,DFU,unhealed,8,FALSE
+PRJNA325156_P58,168,PRJNA325156,United States,T2D,9,62,M,6.6,neuropathic,Loesche2017,1,1,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P59,169,PRJNA325156,United States,T2D,11,48,F,7.4,neuropathic,Loesche2017,1,4,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P60,170,PRJNA325156,United States,T2D,20,55,M,7,neuropathic,Loesche2017,1,18,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P61,171,PRJNA325156,United States,T2D,2,45,M,12.1,neuropathic,Loesche2017,1,30,foot plantar,DFU,healed,7,FALSE
+PRJNA325156_P62,172,PRJNA325156,United States,T2D,5,75,M,9,neuropathic,Loesche2017,1,156,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P63,173,PRJNA325156,United States,T2D,8,52,M,8.3,neuropathic,Loesche2017,1,52,foot plantar,DFU,healed,5,FALSE
+PRJNA325156_P64,174,PRJNA325156,United States,T2D,30,81,F,6.1,neuropathic,Loesche2017,1,104,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P65,175,PRJNA325156,United States,T2D,11,56,F,8,neuropathic,Loesche2017,1,55,foot plantar,DFU,healed,13,FALSE
+PRJNA325156_P66,176,PRJNA325156,United States,T2D,5,52,F,5.4,neuropathic,Loesche2017,1,35,foot plantar,DFU,unhealed,12,FALSE
+PRJNA325156_P67,177,PRJNA325156,United States,T2D,14,56,F,6.5,neuropathic,Loesche2017,1,27.5,foot plantar,DFU,healed,5,FALSE
+PRJNA325156_P68,178,PRJNA325156,United States,T1D,21,52,M,9.2,neuropathic,Loesche2017,1,37,foot plantar,DFU,healed,7,FALSE
+PRJNA325156_P69,179,PRJNA325156,United States,T2D,14,42,M,7.6,neuropathic,Loesche2017,1,18,foot plantar,DFU,unhealed,2,FALSE
+PRJNA325156_P70,180,PRJNA325156,United States,T2D,8,36,F,7.9,neuropathic,Loesche2017,1,3,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P71,181,PRJNA325156,United States,T2D,10,60,M,11,neuropathic,Loesche2017,1,35,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P72,182,PRJNA325156,United States,T2D,15,62,M,8.3,neuropathic,Loesche2017,1,6,foot plantar,DFU,unhealed,1,FALSE
+PRJNA325156_P73,183,PRJNA325156,United States,T2D,26,66,M,6.8,neuropathic,Loesche2017,1,24,foot plantar,DFU,healed,4,FALSE
+PRJNA325156_P74,184,PRJNA325156,United States,T2D,13,31,M,5.5,neuropathic,Loesche2017,1,38,foot plantar,DFU,unhealed,2,FALSE
+PRJNA325156_P75,185,PRJNA325156,United States,T2D,4,62,M,6.6,neuropathic,Loesche2017,1,30,foot plantar,DFU,unhealed,2,FALSE
+PRJNA325156_P76,186,PRJNA325156,United States,T2D,10,58,M,7.2,neuropathic,Loesche2017,1,13,foot plantar,DFU,unhealed,14,FALSE
+PRJNA325156_P77,187,PRJNA325156,United States,T1D,7,37,M,8.7,neuropathic,Loesche2017,1,52,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P78,188,PRJNA325156,United States,T2D,30,47,M,6.4,neuropathic,Loesche2017,1,8,foot plantar,DFU,unhealed,1,FALSE
+PRJNA325156_P79,189,PRJNA325156,United States,T2D,7.5,58,M,7.8,neuropathic,Loesche2017,1,8,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P80,190,PRJNA325156,United States,T2D,16,52,M,10.1,neuropathic,Loesche2017,1,14,foot plantar,DFU,healed,4,FALSE
+PRJNA325156_P81,191,PRJNA325156,United States,T2D,5.5,52,F,9.4,neuropathic,Loesche2017,1,213,foot plantar,DFU,unhealed,13,FALSE
+PRJNA325156_P82,192,PRJNA325156,United States,T2D,5,50,F,6.7,neuropathic,Loesche2017,1,10.5,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P83,193,PRJNA325156,United States,T2D,8,58,F,5.8,neuropathic,Loesche2017,1,19,foot plantar,DFU,healed,4,FALSE
+PRJNA325156_P84,194,PRJNA325156,United States,T2D,2.1,52,M,10.7,neuropathic,Loesche2017,1,40.5,foot plantar,DFU,unhealed,1,FALSE
+PRJNA325156_P85,195,PRJNA325156,United States,T2D,10,58,M,8.9,neuropathic,Loesche2017,1,13,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P86,196,PRJNA325156,United States,T2D,11,48,M,7.1,neuropathic,Loesche2017,1,9,foot plantar,DFU,healed,5,FALSE
+PRJNA325156_P87,197,PRJNA325156,United States,T2D,20,53,M,7.4,neuropathic,Loesche2017,1,33,foot plantar,DFU,unhealed,8,FALSE
+PRJNA325156_P88,198,PRJNA325156,United States,T2D,0.3,49,F,9.9,neuropathic,Loesche2017,1,24,foot plantar,DFU,unhealed,13,FALSE
+PRJNA325156_P89,199,PRJNA325156,United States,T2D,12,73,F,7.2,neuropathic,Loesche2017,1,48,foot plantar,DFU,unhealed,14,FALSE
+PRJNA325156_P90,200,PRJNA325156,United States,T2D,17,51,F,8.4,neuropathic,Loesche2017,1,3.5,foot plantar,DFU,healed,1,FALSE
+PRJNA325156_P91,201,PRJNA325156,United States,T1D,38,47,F,8.2,neuropathic,Loesche2017,1,9,foot plantar,DFU,unhealed,5,FALSE
+PRJNA325156_P92,301,PRJNA325156,United States,T2D,20,58,M,6.5,neuropathic,Loesche2017,1,21,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P93,302,PRJNA325156,United States,T2D,12,55,M,9.5,neuropathic,Loesche2017,1,28,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P94,304,PRJNA325156,United States,T2D,6,61,M,6.3,neuropathic,Loesche2017,1,16.5,foot plantar,DFU,unhealed,11,FALSE
+PRJNA325156_P95,305,PRJNA325156,United States,T2D,9,62,M,6.6,neuropathic,Loesche2017,1,56,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P96,307,PRJNA325156,United States,T2D,15,69,M,6.9,neuropathic,Loesche2017,1,18,foot plantar,DFU,healed,4,FALSE
+PRJNA325156_P97,308,PRJNA325156,United States,T2D,6,53,M,6.8,neuropathic,Loesche2017,1,26,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P98,309,PRJNA325156,United States,T2D,16,47,M,8.1,neuropathic,Loesche2017,1,24,foot plantar,DFU,healed,3,FALSE
+PRJNA325156_P99,310,PRJNA325156,United States,T2D,17,52,M,12.6,neuropathic,Loesche2017,1,22,foot plantar,DFU,healed,2,FALSE
+PRJNA325156_P100,312,PRJNA325156,United States,T2D,12,58,M,7.1,neuropathic,Loesche2017,1,18,foot plantar,DFU,healed,6,FALSE
+Malone2017_P1,D1,NA,Australia,T2D,7,54,M,NA,Unknown,Malone2017a,1,8,foot,DFI,Unknown,1,FALSE
+Malone2017_P2,D2,NA,Australia,T2D,4,50,M,NA,Unknown,Malone2017a,1,16,foot,DFI,Unknown,1,FALSE
+Malone2017_P3,D3,NA,Australia,T2D,20,65,F,NA,Unknown,Malone2017a,1,36,foot,DFI,Unknown,1,FALSE
+Malone2017_P4,D4,NA,Australia,T1D,29,46,F,NA,Unknown,Malone2017a,1,14,foot,DFI,Unknown,1,FALSE
+Malone2017_P5,D5,NA,Australia,T2D,25,65,M,NA,Unknown,Malone2017a,1,24,foot,DFI,Unknown,1,FALSE
+Malone2017_P6,D6,NA,Australia,T2D,21,66,M,NA,Unknown,Malone2017a,1,12,foot,DFI,Unknown,1,FALSE
+Malone2017_P7,D7,NA,Australia,T2D,5,52,M,NA,Unknown,Malone2017a,1,72,foot,DFI,Unknown,1,FALSE
+Malone2017_P8,D8,NA,Australia,T1D,19,51,F,NA,Unknown,Malone2017a,1,6,foot,DFI,Unknown,1,FALSE
+Malone2017_P9,D9,NA,Australia,T2D,3,61,F,NA,Unknown,Malone2017a,1,8,foot,DFI,Unknown,1,FALSE
+Malone2017_P10,D10,NA,Australia,T2D,10,57,F,NA,Unknown,Malone2017a,1,20,foot,DFI,Unknown,1,FALSE
+Malone2017_P11,D11,NA,Australia,T2D,10,69,F,NA,Unknown,Malone2017a,1,12,foot,DFI,Unknown,1,FALSE
+Malone2017_P12,D12,NA,Australia,T1D,21,32,F,NA,Unknown,Malone2017a,1,24,foot,DFI,Unknown,1,FALSE
+Malone2017_P13,D13,NA,Australia,T2D,15,63,M,NA,Unknown,Malone2017a,1,6,foot,DFI,Unknown,1,FALSE
+Malone2017_P14,D14,NA,Australia,T2D,10,53,M,NA,Unknown,Malone2017a,1,20,foot,DFI,Unknown,1,FALSE
+Malone2017_P15,D15,NA,Australia,T2D,3,54,M,NA,Unknown,Malone2017a,1,12,foot,DFI,Unknown,1,FALSE
+Malone2017_P16,D16,NA,Australia,T2D,16,71,M,NA,Unknown,Malone2017a,1,8,foot,DFI,Unknown,1,FALSE
+Malone2017_P17,D17,NA,Australia,T2D,12,63,M,NA,Unknown,Malone2017a,1,26,foot,DFI,Unknown,1,FALSE
+Malone2017_P18,D18,NA,Australia,T2D,15,53,M,NA,Unknown,Malone2017a,1,32,foot,DFI,Unknown,1,FALSE
+Malone2017_P19,D19,NA,Australia,T2D,10,64,M,NA,Unknown,Malone2017a,1,12,foot,DFI,Unknown,1,FALSE
+Malone2017_P20,D20,NA,Australia,T2D,26,65,M,NA,Unknown,Malone2017a,1,16,foot,DFI,Unknown,1,FALSE
+Malone2017_P21,D21,NA,Australia,T2D,16,78,M,NA,Unknown,Malone2017a,1,8,foot,DFI,Unknown,1,FALSE
+Malone2017_P22,D22,NA,Australia,T2D,22,69,M,NA,Unknown,Malone2017a,1,18,foot,DFI,Unknown,1,FALSE
+Malone2017_P23,D23,NA,Australia,T2D,15,78,F,NA,Unknown,Malone2017a,1,12,foot,DFI,Unknown,1,FALSE
+Malone2017_P24,D24,NA,Australia,T2D,10,57,F,NA,Unknown,Malone2017a,1,24,foot,DFI,Unknown,1,FALSE
+Malone2017_P25,D25,NA,Australia,T2D,15,79,M,NA,Unknown,Malone2017a,1,9,foot,DFI,Unknown,1,FALSE
+Malone2017_P26,D26,NA,Australia,T1D,20,44,M,NA,Unknown,Malone2017a,1,7,foot,DFI,Unknown,1,FALSE
+Malone2017_P27,D27,NA,Australia,T2D,8,46,M,NA,Unknown,Malone2017a,1,3,foot,DFI,Unknown,1,FALSE
+Malone2017_P28,D28,NA,Australia,T2D,8,37,M,NA,Unknown,Malone2017a,1,6,foot,DFI,Unknown,1,FALSE
+Malone2017_P29,D29,NA,Australia,T2D,10,49,F,NA,Unknown,Malone2017a,1,52,foot,DFI,Unknown,1,FALSE
+Malone2017_P30,D30,NA,Australia,T2D,15,68,M,NA,Unknown,Malone2017a,1,30,foot,DFI,Unknown,1,FALSE
+Malone2017_P31,D31,NA,Australia,T2D,22,77,M,NA,Unknown,Malone2017a,1,7,foot,DFI,Unknown,1,FALSE
+Malone2017_P32,D32,NA,Australia,T2D,10,43,M,NA,Unknown,Malone2017a,1,7,foot,DFI,Unknown,1,FALSE
+Malone2017_P33,D33,NA,Australia,T2D,8,42,M,NA,Unknown,Malone2017a,1,12,foot,DFI,Unknown,1,FALSE
+Malone2017_P34,D34,NA,Australia,T2D,15,55,M,NA,Unknown,Malone2017a,1,6,foot,DFI,Unknown,1,FALSE
+Malone2017_P35,D35,NA,Australia,T2D,6,53,M,NA,Unknown,Malone2017a,1,12,foot,DFI,Unknown,1,FALSE
+Malone2017_P36,D36,NA,Australia,T2D,12,62,M,NA,Unknown,Malone2017a,1,3,foot,DFI,Unknown,1,FALSE
+Malone2017_P37,D37,NA,Australia,T2D,5,64,M,NA,Unknown,Malone2017a,1,1,foot,DFI,Unknown,1,FALSE
+Malone2017_P38,D38,NA,Australia,T2D,6,46,M,NA,Unknown,Malone2017a,1,9,foot,DFI,Unknown,1,FALSE
+Malone2017_P39,D39,NA,Australia,T2D,16,60,F,NA,Unknown,Malone2017a,1,8,foot,DFI,Unknown,1,FALSE
+Malone2017_P40,D40,NA,Australia,T2D,8,61,M,NA,Unknown,Malone2017a,1,8,foot,DFI,Unknown,1,FALSE
+Malone2017_P41,LD31,NA,Australia,T2D,7,72,M,6.7,Unknown,Malone2017b,1,72,foot,DFU,Unknown,2,FALSE
+Malone2017_P42,LD32,NA,Australia,T2D,20,65,F,NA,Unknown,Malone2017b,1,40,foot,DFU,Unknown,2,FALSE
+Malone2017_P43,LD33,NA,Australia,T2D,1,71,M,NA,Unknown,Malone2017b,1,6,foot,DFU,Unknown,2,FALSE
+Malone2017_P44,LD34,NA,Australia,T2D,10,58,M,NA,Unknown,Malone2017b,1,24,foot,DFU,Unknown,2,FALSE
+Malone2017_P45,LD35,NA,Australia,T2D,13,67,M,NA,Unknown,Malone2017b,1,12,foot,DFU,Unknown,2,FALSE
+Malone2017_P46,LD36,NA,Australia,T2D,20,74,M,NA,Unknown,Malone2017b,1,36,foot,DFU,Unknown,2,FALSE
+Malone2017_P47,LD37,NA,Australia,T2D,5,52,M,NA,Unknown,Malone2017b,1,72,foot,DFU,Unknown,2,FALSE
+Malone2017_P48,LD38,NA,Australia,T2D,22,51,F,NA,Unknown,Malone2017b,1,7,foot,DFU,Unknown,2,FALSE
+Malone2017_P49,LD39,NA,Australia,T2D,22,62,F,NA,Unknown,Malone2017b,1,28,foot,DFU,Unknown,2,FALSE
+Malone2017_P50,LD40,NA,Australia,T2D,20,61,M,NA,Unknown,Malone2017b,1,18,foot,DFU,Unknown,2,FALSE
+Malone2017_P51,LD41,NA,Australia,T2D,39,80,M,NA,Unknown,Malone2017b,1,28,foot,DFU,Unknown,2,FALSE
+Malone2017_P52,LD42,NA,Australia,T1D,15,30,F,NA,Unknown,Malone2017b,1,27,foot,DFU,Unknown,2,FALSE
+Malone2017_P53,LD43,NA,Australia,T1D,20,63,M,NA,Unknown,Malone2017b,1,28,foot,DFU,Unknown,2,FALSE
+Malone2017_P54,LD44,NA,Australia,T2D,24,66,M,NA,Unknown,Malone2017b,1,6,foot,DFU,Unknown,2,FALSE
+Malone2017_P55,LD45,NA,Australia,T2D,10,53,M,NA,Unknown,Malone2017b,1,6,foot,DFU,Unknown,2,FALSE
+Malone2017_P56,LD91,NA,Australia,T2D,3,41,M,NA,Unknown,Malone2017b,1,8,foot,DFU,Unknown,2,FALSE
+Malone2017_P57,LD92,NA,Australia,T2D,17,84,M,NA,Unknown,Malone2017b,1,12,foot,DFU,Unknown,2,FALSE
+Malone2017_P58,LD31,NA,Australia,T2D,7,72,M,6.7,Unknown,Malone2017b,1,72,foot,DFU,Unknown,2,FALSE
+Malone2017_P59,LD32,NA,Australia,T2D,20,65,F,NA,Unknown,Malone2017b,1,40,foot,DFU,Unknown,2,FALSE
+Malone2017_P60,LD33,NA,Australia,T2D,1,71,M,NA,Unknown,Malone2017b,1,6,foot,DFU,Unknown,2,FALSE
+Malone2017_P61,LD34,NA,Australia,T2D,10,58,M,NA,Unknown,Malone2017b,1,24,foot,DFU,Unknown,2,FALSE
+Malone2017_P62,LD35,NA,Australia,T2D,13,67,M,NA,Unknown,Malone2017b,1,12,foot,DFU,Unknown,2,FALSE
+Malone2017_P63,LD36,NA,Australia,T2D,20,74,M,NA,Unknown,Malone2017b,1,36,foot,DFU,Unknown,2,FALSE
+Malone2017_P64,LD37,NA,Australia,T2D,5,52,M,NA,Unknown,Malone2017b,1,72,foot,DFU,Unknown,2,FALSE
+Malone2017_P65,LD38,NA,Australia,T2D,22,51,F,NA,Unknown,Malone2017b,1,7,foot,DFU,Unknown,2,FALSE
+Malone2017_P66,LD39,NA,Australia,T2D,22,62,F,NA,Unknown,Malone2017b,1,28,foot,DFU,Unknown,2,FALSE
+Malone2017_P67,LD40,NA,Australia,T2D,20,61,M,NA,Unknown,Malone2017b,1,18,foot,DFU,Unknown,2,FALSE
+Malone2017_P68,LD41,NA,Australia,T2D,39,80,M,NA,Unknown,Malone2017b,1,28,foot,DFU,Unknown,2,FALSE
+Malone2017_P69,LD42,NA,Australia,T1D,15,30,F,NA,Unknown,Malone2017b,1,27,foot,DFU,Unknown,2,FALSE
+Malone2017_P70,LD43,NA,Australia,T1D,20,63,M,NA,Unknown,Malone2017b,1,28,foot,DFU,Unknown,2,FALSE
+Malone2017_P71,LD44,NA,Australia,T2D,24,66,M,NA,Unknown,Malone2017b,1,6,foot,DFU,Unknown,2,FALSE
+Malone2017_P72,LD45,NA,Australia,T2D,10,53,M,NA,Unknown,Malone2017b,1,6,foot,DFU,Unknown,2,FALSE
+Malone2017_P73,LD91,NA,Australia,T2D,3,41,M,NA,Unknown,Malone2017b,1,8,foot,DFU,Unknown,2,FALSE
+Malone2017_P74,LD92,NA,Australia,T2D,17,84,M,NA,Unknown,Malone2017b,1,12,foot,DFU,Unknown,2,FALSE
+PRJEB30094_P1,S1,PRJEB30094,South Korea,diabetic,Unknown,68,M,10.9,ischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P2,S2,PRJEB30094,South Korea,diabetic,Unknown,69,F,7.5,neuropathic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P3,S3,PRJEB30094,South Korea,diabetic,Unknown,59,M,NA,neuropathic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P4,S4,PRJEB30094,South Korea,diabetic,Unknown,79,F,6,neuropathic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P5,S5,PRJEB30094,South Korea,diabetic,Unknown,56,M,11.2,ischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P6,S6,PRJEB30094,South Korea,diabetic,Unknown,71,M,6.9,ischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P7,S7,PRJEB30094,South Korea,diabetic,Unknown,64,M,6.5,neuroischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P8,S8,PRJEB30094,South Korea,diabetic,Unknown,39,M,5.2,neuropathic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P9,S9,PRJEB30094,South Korea,diabetic,Unknown,62,F,NA,ischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P10,S10,PRJEB30094,South Korea,diabetic,Unknown,62,M,11.7,neuropathic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P11,S11,PRJEB30094,South Korea,diabetic,Unknown,63,M,NA,neuroischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P12,S12,PRJEB30094,South Korea,diabetic,Unknown,73,M,8.4,neuroischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P13,S13,PRJEB30094,South Korea,diabetic,Unknown,67,M,NA,Ischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P14,S14,PRJEB30094,South Korea,diabetic,Unknown,35,M,6.8,neuropathic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P15,S15,PRJEB30094,South Korea,diabetic,Unknown,55,M,7.4,neuropathic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P16,S16,PRJEB30094,South Korea,diabetic,Unknown,40,M,NA,neuropathic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P17,S17,PRJEB30094,South Korea,diabetic,Unknown,58,M,7,ischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P18,S18,PRJEB30094,South Korea,diabetic,Unknown,73,M,8.6,ischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P19,S19,PRJEB30094,South Korea,diabetic,Unknown,81,F,NA,ischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB30094_P20,S20,PRJEB30094,South Korea,diabetic,Unknown,75,M,6.3,ischemic,Park2019,1,Unknown,foot,DFU,Unknown,1,FALSE
+PRJEB28661_P1,1037,PRJEB28661,United Kingdom,diabetic,Unknown,37,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,healed,2,FALSE
+PRJEB28661_P2,1038,PRJEB28661,United Kingdom,diabetic,Unknown,63,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,11,FALSE
+PRJEB28661_P3,1039,PRJEB28661,United Kingdom,diabetic,Unknown,62,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,11,FALSE
+PRJEB28661_P4,1040,PRJEB28661,United Kingdom,diabetic,Unknown,84,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,11,FALSE
+PRJEB28661_P5,1041,PRJEB28661,United Kingdom,diabetic,Unknown,60,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,9,FALSE
+PRJEB28661_P6,5029,PRJEB28661,United Kingdom,diabetic,Unknown,58,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,13,FALSE
+PRJEB28661_P7,5030,PRJEB28661,United Kingdom,diabetic,Unknown,77,F,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,10,FALSE
+PRJEB28661_P8,5031,PRJEB28661,United Kingdom,diabetic,Unknown,74,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,9,FALSE
+PRJEB28661_P9,7024,PRJEB28661,United Kingdom,diabetic,Unknown,45,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,13,FALSE
+PRJEB28661_P10,7025,PRJEB28661,United Kingdom,diabetic,Unknown,68,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,healed,5,FALSE
+PRJEB28661_P11,9037,PRJEB28661,United Kingdom,diabetic,Unknown,73,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,9,FALSE
+PRJEB28661_P12,9038,PRJEB28661,United Kingdom,diabetic,Unknown,71,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,12,FALSE
+PRJEB28661_P13,9039,PRJEB28661,United Kingdom,diabetic,Unknown,42,F,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,healed,10,FALSE
+PRJEB28661_P14,9040,PRJEB28661,United Kingdom,diabetic,Unknown,81,F,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,8,FALSE
+PRJEB28661_P15,10046,PRJEB28661,United Kingdom,diabetic,Unknown,71,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,12,FALSE
+PRJEB28661_P16,10049,PRJEB28661,United Kingdom,diabetic,Unknown,61,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,healed,8,FALSE
+PRJEB28661_P17,20014,PRJEB28661,United Kingdom,diabetic,Unknown,79,F,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,10,FALSE
+PRJEB28661_P18,20015,PRJEB28661,United Kingdom,diabetic,Unknown,81,F,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,11,FALSE
+PRJEB28661_P19,21021,PRJEB28661,United Kingdom,diabetic,Unknown,56,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,2,FALSE
+PRJEB28661_P20,21023,PRJEB28661,United Kingdom,diabetic,Unknown,88,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,2,FALSE
+PRJEB28661_P21,23016,PRJEB28661,United Kingdom,diabetic,Unknown,62,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,healed,3,FALSE
+PRJEB28661_P22,31024,PRJEB28661,United Kingdom,diabetic,Unknown,70,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,3,FALSE
+PRJEB28661_P23,32009,PRJEB28661,United Kingdom,diabetic,Unknown,56,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,5,FALSE
+PRJEB28661_P24,32010,PRJEB28661,United Kingdom,diabetic,Unknown,76,F,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,13,FALSE
+PRJEB28661_P25,32011,PRJEB28661,United Kingdom,diabetic,Unknown,73,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,healed,10,FALSE
+PRJEB28661_P26,33026,PRJEB28661,United Kingdom,diabetic,Unknown,79,M,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,healed,5,FALSE
+PRJEB28661_P27,33027,PRJEB28661,United Kingdom,diabetic,Unknown,50,F,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,unhealed,12,FALSE
+PRJEB28661_P28,33028,PRJEB28661,United Kingdom,diabetic,Unknown,85,F,NA,Unknown,Sloan2019,1,Unknown,heel,DFU,healed,8,FALSE
